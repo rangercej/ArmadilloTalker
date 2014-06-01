@@ -1,0 +1,69 @@
+#
+# Room description file
+# Please don't leave any blank lines! If you need a blank line, put a
+# single hash in please
+#
+# Order DOES matter. The first room in this list is the initail room that
+# people enter.
+#
+# Each entry should have (in this order) the following tags:
+#	ROOM:	The room name - no spaces. The mapping is case insensitive, so
+#		you can mix case without causing hassle.
+#	LINKS:	Where it links to, or *NONE for no links
+#       HIDDEN:	What other rooms it links to, but the links aren't displayed
+#	EMPTY:  The message to displayed when you are the only person in the
+#               room
+#	OTHERS: The message displayed before the list of users in a non-empty
+#		room
+#	INVIS:  Message displayed when the only other people in the room are
+#		invisible
+#	DESC:	Can have more than one desc line; the room descriptions.
+#	BOARD:  Either YES or NO
+#	TYPE:   Either PUBLIC, FIXEDPUB, PRIVATE
+#	ENDDEF  This must appear at the end of each rooms definition.
+#
+ROOM: Entrance
+LINKS: Nextdoor Backdoor
+HIDDEN: Cellar
+EMPTY: You feel a draught as you look around the empty place...
+OTHERS: You appreciate the company of
+INVIS: The feeling of loneliness dissapears...yet you cannot see anyone...
+DESC: The Entrance
+DESC: Fun, eh?
+BOARD: NO
+TYPE: PUBLIC
+ENDDEF
+#
+ROOM: Nextdoor
+LINKS: Entrance
+HIDDEN: *NONE
+EMPTY: You wonder if the neighbours were scared away...
+OTHERS: You wave to the neighbours!
+INVIS: You wonder how long that your neighbours have been practising magic...
+DESC: You are now next door...that's called tresspassing isn't it?
+BOARD: NO
+TYPE: PUBLIC
+ENDDEF
+#
+ROOM: Backdoor
+LINKS: *NONE
+HIDDEN: Cellar
+EMPTY: You wonder where the hell everyone is
+OTHERS: You can see:
+INVIS: You wish your neighbours would stop playing with magic
+DESC: You back door over looks the garden...as you turn around, you see you
+DESC: have no way back to where you came from...you're trapped....oops!
+BOARD: YES
+TYPE: PUBLIC
+ENDDEF
+#
+ROOM: Cellar
+LINKS: Nextdoor
+HIDDEN: Backdoor
+EMPTY: You are all alone in here...the mice and rats welcome your company
+OTHERS: You sense the presense of
+INVIS: Boo!
+DESC: Wow - the cellar...(hic!) Thash the shpirit!!!
+BOARD: NO
+TYPE: PUBLIC
+ENDDEF

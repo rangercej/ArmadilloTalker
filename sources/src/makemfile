@@ -1,0 +1,50 @@
+#!/bin/ksh
+
+mv Makefile Makefile.old
+
+cat > Makefile << EOMF
+
+CC = gcc
+
+CFLAGS = -DDEBUG
+
+PROGRAM = armadillo
+
+HDRS  =	armadillo.h
+
+EOMF
+
+print -n "OBJS =" >> Makefile
+for i in *c
+do
+	print -n " $i" | sed 's/\.c/\.o/' >> Makefile
+done
+
+print "" >> Makefile
+
+print -n "SRCS =" >> Makefile
+for i in *c
+do
+	print -n " $i" >> Makefile
+done
+
+print "" >> Makefile
+
+cat >> Makefile << EOFM
+
+all:	depend \$(PROGRAM)
+
+\$(PROGRAM):	\$(OBJS)
+	\$(CC) -o \$(PROGRAM) \$(OBJS)
+
+depend:
+	makedepend \$(SRCS)
+
+clean:
+	rm -f *.o
+	rm -f armadillo
+
+asm:	\$(SRCS) \$(HDRS)
+	\$(CC) -S \$(SRCS)
+
+EOFM

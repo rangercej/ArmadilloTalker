@@ -1,0 +1,413 @@
+makedepend armadillo.c cmd_area.c cmd_mail.c cmd_user.c commands.c editor.c globals.c login.c main.c map.c network.c signals.c system.c users.c
+gcc -DDEBUG -g -Wall -O2   -c armadillo.c -o armadillo.o
+armadillo.c:7: warning: return-type defaults to `int'
+armadillo.c: In function `main':
+armadillo.c:8: warning: implicit declaration of function `init'
+armadillo.c:11: warning: implicit declaration of function `run'
+armadillo.c:13: warning: implicit declaration of function `done'
+armadillo.c:14: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c cmd_area.c -o cmd_area.o
+cmd_area.c:12: warning: return-type defaults to `int'
+cmd_area.c: In function `expand_room':
+cmd_area.c:32: warning: control reaches end of non-void function
+cmd_area.c: At top level:
+cmd_area.c:35: warning: return-type defaults to `int'
+cmd_area.c: In function `go':
+cmd_area.c:42: warning: implicit declaration of function `tell'
+cmd_area.c:43: warning: `return' with no value, in function returning non-void
+cmd_area.c:46: warning: implicit declaration of function `stripcrlf'
+cmd_area.c:47: warning: implicit declaration of function `strlower'
+cmd_area.c:52: warning: `return' with no value, in function returning non-void
+cmd_area.c:57: warning: `return' with no value, in function returning non-void
+cmd_area.c:64: warning: `return' with no value, in function returning non-void
+cmd_area.c:92: warning: `return' with no value, in function returning non-void
+cmd_area.c:96: warning: implicit declaration of function `message'
+cmd_area.c:101: warning: implicit declaration of function `look'
+cmd_area.c:103: warning: control reaches end of non-void function
+cmd_area.c: At top level:
+cmd_area.c:106: warning: return-type defaults to `int'
+cmd_area.c: In function `look':
+cmd_area.c:170: warning: control reaches end of non-void function
+cmd_area.c: At top level:
+cmd_area.c:173: warning: return-type defaults to `int'
+cmd_area.c: In function `areas':
+cmd_area.c:187: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c cmd_mail.c -o cmd_mail.o
+cmd_mail.c:26: warning: return-type defaults to `int'
+cmd_mail.c: In function `rmail':
+cmd_mail.c:39: warning: implicit declaration of function `tell'
+cmd_mail.c:41: warning: implicit declaration of function `logmessage'
+cmd_mail.c:42: warning: `return' with no value, in function returning non-void
+cmd_mail.c:50: warning: `return' with no value, in function returning non-void
+cmd_mail.c:65: warning: implicit declaration of function `linestripcrlf'
+cmd_mail.c:66: warning: implicit declaration of function `toupper'
+cmd_mail.c:88: warning: implicit declaration of function `atol'
+cmd_mail.c:89: warning: implicit declaration of function `clearscreen'
+cmd_mail.c:90: warning: implicit declaration of function `mklocaltime'
+cmd_mail.c:90: warning: format argument is not a pointer (arg 4)
+cmd_mail.c:110: warning: implicit declaration of function `look'
+cmd_mail.c:30: warning: unused variable `z'
+cmd_mail.c:112: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:115: warning: return-type defaults to `int'
+cmd_mail.c: In function `dmail':
+cmd_mail.c:117: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:120: warning: return-type defaults to `int'
+cmd_mail.c: In function `smail':
+cmd_mail.c:138: warning: `return' with no value, in function returning non-void
+cmd_mail.c:141: warning: implicit declaration of function `strlower'
+cmd_mail.c:153: warning: `return' with no value, in function returning non-void
+cmd_mail.c:183: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:186: warning: return-type defaults to `int'
+cmd_mail.c: In function `mailer':
+cmd_mail.c:203: warning: `return' with no value, in function returning non-void
+cmd_mail.c:211: warning: `return' with no value, in function returning non-void
+cmd_mail.c:237: warning: implicit declaration of function `mailer_menu'
+cmd_mail.c:238: warning: implicit declaration of function `mailer_send'
+cmd_mail.c:239: warning: implicit declaration of function `mailer_read'
+cmd_mail.c:195: warning: unused variable `lines'
+cmd_mail.c:195: warning: unused variable `j'
+cmd_mail.c:194: warning: unused variable `text'
+cmd_mail.c:191: warning: unused variable `posn'
+cmd_mail.c:190: warning: unused variable `tm'
+cmd_mail.c:248: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:251: warning: return-type defaults to `int'
+cmd_mail.c: In function `mailer_menu':
+cmd_mail.c:262: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:265: warning: return-type defaults to `int'
+cmd_mail.c: In function `mailer_send':
+cmd_mail.c:303: warning: implicit declaration of function `initedit'
+cmd_mail.c:311: warning: implicit declaration of function `edit'
+cmd_mail.c:268: warning: unused variable `numlines'
+cmd_mail.c:317: warning: control reaches end of non-void function
+cmd_mail.c: At top level:
+cmd_mail.c:320: warning: return-type defaults to `int'
+cmd_mail.c: In function `mailer_read':
+cmd_mail.c:324: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c cmd_user.c -o cmd_user.o
+cmd_user.c:12: warning: return-type defaults to `int'
+cmd_user.c: In function `quituser':
+cmd_user.c:16: warning: implicit declaration of function `tell'
+cmd_user.c:17: warning: implicit declaration of function `save_user'
+cmd_user.c:19: warning: implicit declaration of function `clean_user'
+cmd_user.c:21: warning: implicit declaration of function `message'
+cmd_user.c:23: warning: implicit declaration of function `logmessage'
+cmd_user.c:24: warning: control reaches end of non-void function
+cmd_user.c: At top level:
+cmd_user.c:27: warning: return-type defaults to `int'
+cmd_user.c: In function `emote':
+cmd_user.c:32: warning: `return' with no value, in function returning non-void
+cmd_user.c:35: warning: implicit declaration of function `linestripcrlf'
+cmd_user.c:38: warning: control reaches end of non-void function
+cmd_user.c: At top level:
+cmd_user.c:41: warning: return-type defaults to `int'
+cmd_user.c: In function `who':
+cmd_user.c:57: warning: control reaches end of non-void function
+cmd_user.c: At top level:
+cmd_user.c:60: warning: return-type defaults to `int'
+cmd_user.c: In function `shout':
+cmd_user.c:66: warning: `return' with no value, in function returning non-void
+cmd_user.c:69: warning: implicit declaration of function `strupper'
+cmd_user.c:75: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c commands.c -o commands.o
+commands.c:38: warning: return-type defaults to `int'
+commands.c:55: warning: return-type defaults to `int'
+commands.c: In function `shortcut':
+commands.c:71: warning: `return' with no value, in function returning non-void
+commands.c:84: warning: control reaches end of non-void function
+commands.c: At top level:
+commands.c:87: warning: return-type defaults to `int'
+commands.c: In function `abbr':
+commands.c:126: warning: control reaches end of non-void function
+commands.c: At top level:
+commands.c:129: warning: return-type defaults to `int'
+commands.c: In function `docommand':
+commands.c:143: warning: implicit declaration of function `tell'
+commands.c:173: warning: implicit declaration of function `quituser'
+commands.c:174: warning: implicit declaration of function `emote'
+commands.c:175: warning: implicit declaration of function `go'
+commands.c:176: warning: implicit declaration of function `who'
+commands.c:177: warning: implicit declaration of function `look'
+commands.c:179: warning: implicit declaration of function `areas'
+commands.c:180: warning: implicit declaration of function `help'
+commands.c:182: warning: implicit declaration of function `smail'
+commands.c:183: warning: implicit declaration of function `rmail'
+commands.c:184: warning: implicit declaration of function `dmail'
+commands.c:185: warning: implicit declaration of function `mailer'
+commands.c:186: warning: implicit declaration of function `shout'
+commands.c: At top level:
+commands.c:193: warning: return-type defaults to `int'
+commands.c: In function `help':
+commands.c:209: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c editor.c -o editor.o
+editor.c:27: warning: return-type defaults to `int'
+editor.c: In function `load':
+editor.c:36: warning: implicit declaration of function `logmessage'
+editor.c:38: warning: `return' with no value, in function returning non-void
+editor.c:42: warning: implicit declaration of function `initedit'
+editor.c:47: warning: `return' with no value, in function returning non-void
+editor.c:60: warning: implicit declaration of function `linestripcrlf'
+editor.c:66: warning: implicit declaration of function `tell'
+editor.c:76: warning: suggest parentheses around assignment used as truth value
+editor.c:87: warning: implicit declaration of function `close'
+editor.c: At top level:
+editor.c:93: warning: return-type defaults to `int'
+editor.c: In function `initedit':
+editor.c:101: warning: control reaches end of non-void function
+editor.c: At top level:
+editor.c:104: warning: return-type defaults to `int'
+editor.c: In function `edit':
+editor.c:118: warning: implicit declaration of function `backup_user'
+editor.c:119: warning: implicit declaration of function `showtext'
+editor.c:127: warning: implicit declaration of function `displayprompt'
+editor.c:132: warning: implicit declaration of function `toupper'
+editor.c:134: warning: implicit declaration of function `restore_user'
+editor.c:108: warning: unused variable `i'
+editor.c:148: warning: control reaches end of non-void function
+editor.c: At top level:
+editor.c:162: warning: return-type defaults to `int'
+editor.c: In function `showtext':
+editor.c:179: warning: control reaches end of non-void function
+editor.c: At top level:
+editor.c:182: warning: return-type defaults to `int'
+editor.c: In function `displayprompt':
+editor.c:185: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c globals.c -o globals.o
+globals.c:9: warning: missing braces around initializer for `ranknames[0]'
+gcc -DDEBUG -g -Wall -O2   -c login.c -o login.o
+login.c:14: warning: return-type defaults to `int'
+login.c: In function `login':
+login.c:23: warning: implicit declaration of function `tell'
+login.c:30: warning: implicit declaration of function `tolower'
+login.c:31: warning: implicit declaration of function `isalnum'
+login.c:38: warning: implicit declaration of function `toupper'
+login.c:47: warning: implicit declaration of function `echo_off'
+login.c:57: warning: `return' with no value, in function returning non-void
+login.c:60: warning: implicit declaration of function `checkpassword'
+login.c:64: warning: implicit declaration of function `echo_on'
+login.c:65: warning: `return' with no value, in function returning non-void
+login.c:83: warning: `return' with no value, in function returning non-void
+login.c:85: warning: implicit declaration of function `addpassword'
+login.c:91: warning: implicit declaration of function `set_user'
+login.c:93: warning: implicit declaration of function `look'
+login.c:95: warning: implicit declaration of function `message'
+login.c:97: warning: implicit declaration of function `logmessage'
+login.c:100: warning: control reaches end of non-void function
+login.c: At top level:
+login.c:103: warning: return-type defaults to `int'
+login.c: In function `echo_off':
+login.c:107: warning: control reaches end of non-void function
+login.c: At top level:
+login.c:110: warning: return-type defaults to `int'
+login.c: In function `echo_on':
+login.c:114: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c main.c -o main.o
+main.c:19: warning: return-type defaults to `int'
+main.c: In function `init':
+main.c:24: warning: implicit declaration of function `logmessage'
+main.c:31: warning: implicit declaration of function `readconfig'
+main.c:32: warning: implicit declaration of function `init_syslog'
+main.c:33: warning: implicit declaration of function `initmap'
+main.c:34: warning: implicit declaration of function `initsignals'
+main.c:35: warning: implicit declaration of function `readmap'
+main.c:37: warning: implicit declaration of function `initnetwork'
+main.c:39: warning: implicit declaration of function `initusers'
+main.c:52: warning: control reaches end of non-void function
+main.c: At top level:
+main.c:55: warning: return-type defaults to `int'
+main.c: In function `run':
+main.c:75: warning: implicit declaration of function `write'
+main.c:79: warning: implicit declaration of function `add_user'
+main.c:90: warning: implicit declaration of function `quituser'
+main.c:100: warning: implicit declaration of function `memset'
+main.c:101: warning: implicit declaration of function `read'
+main.c:102: warning: implicit declaration of function `close'
+main.c:111: warning: implicit declaration of function `message'
+main.c:125: warning: implicit declaration of function `input'
+main.c:126: warning: implicit declaration of function `login'
+main.c:129: warning: implicit declaration of function `edit'
+main.c:130: warning: implicit declaration of function `rmail'
+main.c:131: warning: implicit declaration of function `mailer'
+main.c:136: warning: implicit declaration of function `process_telnet'
+main.c:58: warning: unused variable `quit'
+main.c:142: warning: control reaches end of non-void function
+main.c: At top level:
+main.c:145: warning: return-type defaults to `int'
+main.c: In function `done':
+main.c:146: warning: implicit declaration of function `donenetwork'
+main.c:147: warning: implicit declaration of function `done_syslog'
+main.c:148: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c map.c -o map.o
+map.c:7: warning: return-type defaults to `int'
+map.c: In function `initmap':
+map.c:22: warning: control reaches end of non-void function
+map.c: At top level:
+map.c:26: warning: return-type defaults to `int'
+map.c: In function `readmap':
+map.c:37: warning: implicit declaration of function `logmessage'
+map.c:63: warning: implicit declaration of function `stripcrlf'
+map.c:64: warning: implicit declaration of function `strlower'
+map.c:81: warning: implicit declaration of function `close'
+map.c:82: warning: `return' with no value, in function returning non-void
+map.c:115: warning: implicit declaration of function `linestripcrlf'
+map.c:323: warning: implicit declaration of function `displaymap'
+map.c:325: warning: control reaches end of non-void function
+map.c: At top level:
+map.c:329: warning: return-type defaults to `int'
+map.c: In function `displaymap':
+map.c:384: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c network.c -o network.o
+network.c:14: warning: return-type defaults to `int'
+network.c: In function `initnetwork':
+network.c:24: warning: implicit declaration of function `logmessage'
+network.c:25: warning: `return' with no value, in function returning non-void
+network.c:36: warning: `return' with no value, in function returning non-void
+network.c:42: warning: `return' with no value, in function returning non-void
+network.c:52: warning: control reaches end of non-void function
+network.c: In function `getsite':
+network.c:61: warning: implicit declaration of function `inet_ntoa'
+network.c:62: warning: implicit declaration of function `inet_addr'
+network.c: At top level:
+network.c:72: warning: return-type defaults to `int'
+network.c: In function `broadcast':
+network.c:77: warning: implicit declaration of function `tell'
+network.c:79: warning: control reaches end of non-void function
+network.c: At top level:
+network.c:82: warning: return-type defaults to `int'
+network.c: In function `message':
+network.c:91: warning: control reaches end of non-void function
+network.c: At top level:
+network.c:94: warning: return-type defaults to `int'
+network.c: In function `tell':
+network.c:95: warning: implicit declaration of function `write'
+network.c:96: warning: control reaches end of non-void function
+network.c: At top level:
+network.c:99: warning: return-type defaults to `int'
+network.c: In function `clean_user':
+network.c:100: warning: implicit declaration of function `close'
+network.c:103: warning: control reaches end of non-void function
+network.c: At top level:
+network.c:106: warning: return-type defaults to `int'
+network.c: In function `donenetwork':
+network.c:110: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c signals.c -o signals.o
+signals.c:14: warning: return-type defaults to `int'
+signals.c: In function `initsignals':
+signals.c:15: warning: implicit declaration of function `logmessage'
+signals.c:20: warning: control reaches end of non-void function
+signals.c: In function `sig_handler':
+signals.c:28: warning: implicit declaration of function `go_shutdown'
+gcc -DDEBUG -g -Wall -O2   -c system.c -o system.o
+system.c:15: warning: return-type defaults to `int'
+system.c: In function `resetconfig':
+system.c:19: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:22: warning: return-type defaults to `int'
+system.c: In function `readconfig':
+system.c:32: warning: implicit declaration of function `logmessage'
+system.c:35: warning: `return' with no value, in function returning non-void
+system.c:44: warning: implicit declaration of function `close'
+system.c:45: warning: `return' with no value, in function returning non-void
+system.c:54: warning: implicit declaration of function `stripcrlf'
+system.c:103: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:107: warning: return-type defaults to `int'
+system.c: In function `logmessage':
+system.c:116: warning: `return' with no value, in function returning non-void
+system.c:121: warning: control reaches end of non-void function
+system.c: In function `getdateline':
+system.c:133: warning: implicit declaration of function `strmidcpy'
+system.c: At top level:
+system.c:158: warning: return-type defaults to `int'
+system.c: In function `strmidcpy':
+system.c:163: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:166: warning: return-type defaults to `int'
+system.c: In function `strlower':
+system.c:171: warning: implicit declaration of function `tolower'
+system.c:173: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:176: warning: return-type defaults to `int'
+system.c: In function `strupper':
+system.c:181: warning: implicit declaration of function `toupper'
+system.c:183: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:187: warning: return-type defaults to `int'
+system.c: In function `checkpassword':
+system.c:197: warning: implicit declaration of function `tell'
+system.c: At top level:
+system.c:230: warning: return-type defaults to `int'
+system.c: In function `addpassword':
+system.c:235: warning: unused variable `pfpass'
+system.c:235: warning: unused variable `pfname'
+system.c:234: warning: unused variable `line'
+system.c:251: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:297: warning: return-type defaults to `int'
+system.c: In function `stripcrlf':
+system.c:299: warning: implicit declaration of function `isalnum'
+system.c:303: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:307: warning: return-type defaults to `int'
+system.c: In function `linestripcrlf':
+system.c:309: warning: implicit declaration of function `isblank'
+system.c:313: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:317: warning: return-type defaults to `int'
+system.c: In function `go_shutdown':
+system.c:324: warning: implicit declaration of function `broadcast'
+system.c:334: warning: implicit declaration of function `quituser'
+system.c:344: warning: implicit declaration of function `write_syslog'
+system.c:345: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:349: warning: return-type defaults to `int'
+system.c: In function `term_detect':
+system.c:355: warning: `return' with no value, in function returning non-void
+system.c:367: warning: too few arguments for format
+system.c:371: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:374: warning: return-type defaults to `int'
+system.c: In function `init_syslog':
+system.c:382: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:385: warning: return-type defaults to `int'
+system.c: In function `write_syslog':
+system.c:389: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:392: warning: return-type defaults to `int'
+system.c: In function `done_syslog':
+system.c:395: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:398: warning: return-type defaults to `int'
+system.c: In function `clearscreen':
+system.c:403: warning: control reaches end of non-void function
+system.c: At top level:
+system.c:406: warning: return-type defaults to `int'
+system.c: In function `process_telnet':
+system.c:407: warning: control reaches end of non-void function
+gcc -DDEBUG -g -Wall -O2   -c users.c -o users.o
+users.c: In function `initusers':
+users.c:18: warning: control reaches end of non-void function
+users.c: In function `add_user':
+users.c:32: warning: implicit declaration of function `tell'
+users.c: In function `split':
+users.c:54: warning: control reaches end of non-void function
+users.c: In function `set_user':
+users.c:121: warning: implicit declaration of function `logmessage'
+users.c:122: warning: `return' with no value, in function returning non-void
+users.c:153: warning: control reaches end of non-void function
+users.c: In function `save_user':
+users.c:171: warning: `return' with no value, in function returning non-void
+users.c:180: warning: control reaches end of non-void function
+users.c: In function `input':
+users.c:189: warning: `return' with no value, in function returning non-void
+users.c:195: warning: `return' with no value, in function returning non-void
+users.c:200: warning: implicit declaration of function `shortcut'
+users.c:213: warning: implicit declaration of function `docommand'
+users.c:216: warning: implicit declaration of function `message'
+users.c:220: warning: control reaches end of non-void function
+gcc -o armadillo armadillo.o cmd_area.o cmd_mail.o cmd_user.o commands.o editor.o globals.o login.o main.o map.o network.o signals.o system.o users.o

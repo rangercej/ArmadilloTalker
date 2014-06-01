@@ -1,0 +1,4 @@
+sync
+make depend
+make all
+

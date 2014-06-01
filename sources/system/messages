@@ -1,0 +1,1402 @@
+Nov 24 12:05: ========================================================
+Nov 24 12:05: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:05: --------------------------------------------------------
+Nov 24 12:05: BOOT: Started init()
+Nov 24 12:05: SYSTEM: Reading system configuration
+Nov 24 12:05: System logging to syslogd enabled. Log level: 0
+Nov 24 12:05: SIGNALS: Fixing signal handlers
+Nov 24 12:05: SIGNALS: Done fixing signal handler
+Nov 24 12:05: MAP: Reading system map
+Nov 24 12:05: MAP: Map read without fatal error
+Nov 24 12:05: BOOT: Map data read
+Nov 24 12:05: BOOT: Connected to network
+Nov 24 12:05: BOOT: Reset user structure
+Nov 24 12:05: BOOT: Passing control to run()
+Nov 24 12:05: BOOT: Server status set to ACTIVE
+Nov 24 12:05: USERS: User Aardvark logged on from localhost
+Nov 24 12:07: CMD_USER: User quit: Aardvark
+Nov 24 12:08: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:08: SYSTEM: Shutting down server
+Nov 24 12:09: ========================================================
+Nov 24 12:09: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:09: --------------------------------------------------------
+Nov 24 12:09: BOOT: Started init()
+Nov 24 12:09: SYSTEM: Reading system configuration
+Nov 24 12:09: System logging to syslogd enabled. Log level: 0
+Nov 24 12:09: SIGNALS: Fixing signal handlers
+Nov 24 12:09: SIGNALS: Done fixing signal handler
+Nov 24 12:09: MAP: Reading system map
+Nov 24 12:09: MAP: Map read without fatal error
+Nov 24 12:09: BOOT: Map data read
+Nov 24 12:09: BOOT: Connected to network
+Nov 24 12:09: BOOT: Reset user structure
+Nov 24 12:09: BOOT: Passing control to run()
+Nov 24 12:09: BOOT: Server status set to ACTIVE
+Nov 24 12:09: USERS: User Aardvark logged on from localhost
+Nov 24 12:10: CMD_USER: User quit: Aardvark
+Nov 24 12:12: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:12: SYSTEM: Shutting down server
+Nov 24 12:12: ========================================================
+Nov 24 12:12: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:12: --------------------------------------------------------
+Nov 24 12:12: BOOT: Started init()
+Nov 24 12:12: SYSTEM: Reading system configuration
+Nov 24 12:12: System logging to syslogd enabled. Log level: 0
+Nov 24 12:12: SIGNALS: Fixing signal handlers
+Nov 24 12:12: SIGNALS: Done fixing signal handler
+Nov 24 12:12: MAP: Reading system map
+Nov 24 12:12: MAP: Map read without fatal error
+Nov 24 12:12: BOOT: Map data read
+Nov 24 12:12: BOOT: Connected to network
+Nov 24 12:12: BOOT: Reset user structure
+Nov 24 12:12: BOOT: Passing control to run()
+Nov 24 12:12: BOOT: Server status set to ACTIVE
+Nov 24 12:13: USERS: No profile found for user Aardvar
+Nov 24 12:13: USERS: User Aardvar logged on from localhost
+Nov 24 12:13: CMD_USER: User quit: Aardvar
+Nov 24 12:13: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:13: SYSTEM: Shutting down server
+Nov 24 12:18: ========================================================
+Nov 24 12:18: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:18: --------------------------------------------------------
+Nov 24 12:18: BOOT: Started init()
+Nov 24 12:18: SYSTEM: Reading system configuration
+Nov 24 12:18: System logging to syslogd enabled. Log level: 0
+Nov 24 12:18: SIGNALS: Fixing signal handlers
+Nov 24 12:18: SIGNALS: Done fixing signal handler
+Nov 24 12:18: MAP: Reading system map
+Nov 24 12:18: MAP: Map read without fatal error
+Nov 24 12:18: BOOT: Map data read
+Nov 24 12:18: BOOT: Connected to network
+Nov 24 12:18: BOOT: Reset user structure
+Nov 24 12:18: BOOT: Passing control to run()
+Nov 24 12:18: BOOT: Server status set to ACTIVE
+Nov 24 12:18: USERS: User Aardvark logged on from localhost
+Nov 24 12:18: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:18: SYSTEM: Shutting down server
+Nov 24 12:18: CMD_USER: User quit: Aardvark
+Nov 24 12:22: ========================================================
+Nov 24 12:22: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:22: --------------------------------------------------------
+Nov 24 12:22: BOOT: Started init()
+Nov 24 12:22: SYSTEM: Reading system configuration
+Nov 24 12:22: System logging to syslogd enabled. Log level: 0
+Nov 24 12:22: SIGNALS: Fixing signal handlers
+Nov 24 12:22: SIGNALS: Done fixing signal handler
+Nov 24 12:22: MAP: Reading system map
+Nov 24 12:22: MAP: Map read without fatal error
+Nov 24 12:22: BOOT: Map data read
+Nov 24 12:22: BOOT: Connected to network
+Nov 24 12:22: BOOT: Reset user structure
+Nov 24 12:22: BOOT: Passing control to run()
+Nov 24 12:22: BOOT: Server status set to ACTIVE
+Nov 24 12:32: ========================================================
+Nov 24 12:32: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:32: --------------------------------------------------------
+Nov 24 12:32: BOOT: Started init()
+Nov 24 12:32: SYSTEM: Reading system configuration
+Nov 24 12:32: System logging to syslogd enabled. Log level: 0
+Nov 24 12:32: SIGNALS: Fixing signal handlers
+Nov 24 12:32: SIGNALS: Done fixing signal handler
+Nov 24 12:32: MAP: Reading system map
+Nov 24 12:32: MAP: Map read without fatal error
+Nov 24 12:32: BOOT: Map data read
+Nov 24 12:32: BOOT: Connected to network
+Nov 24 12:32: BOOT: Reset user structure
+Nov 24 12:32: BOOT: Passing control to run()
+Nov 24 12:32: BOOT: Server status set to ACTIVE
+Nov 24 12:32: USERS: User Aardvark logged on from localhost
+Nov 24 12:32: CMD_USER: User quit: Aardvark
+Nov 24 12:33: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:33: SYSTEM: Shutting down server
+Nov 24 12:33: ========================================================
+Nov 24 12:33: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:33: --------------------------------------------------------
+Nov 24 12:33: BOOT: Started init()
+Nov 24 12:33: SYSTEM: Reading system configuration
+Nov 24 12:33: System logging to syslogd enabled. Log level: 0
+Nov 24 12:33: SIGNALS: Fixing signal handlers
+Nov 24 12:33: SIGNALS: Done fixing signal handler
+Nov 24 12:33: MAP: Reading system map
+Nov 24 12:33: MAP: Map read without fatal error
+Nov 24 12:33: BOOT: Map data read
+Nov 24 12:33: BOOT: Connected to network
+Nov 24 12:33: BOOT: Reset user structure
+Nov 24 12:33: BOOT: Passing control to run()
+Nov 24 12:33: BOOT: Server status set to ACTIVE
+Nov 24 12:33: MAIN: Lost connection to Aardvark (localhost). Socket closed.
+Nov 24 12:34: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:34: SYSTEM: Shutting down server
+Nov 24 12:35: ========================================================
+Nov 24 12:35: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:35: --------------------------------------------------------
+Nov 24 12:35: BOOT: Started init()
+Nov 24 12:35: SYSTEM: Reading system configuration
+Nov 24 12:35: System logging to syslogd enabled. Log level: 0
+Nov 24 12:35: SIGNALS: Fixing signal handlers
+Nov 24 12:35: SIGNALS: Done fixing signal handler
+Nov 24 12:35: MAP: Reading system map
+Nov 24 12:35: MAP: Map read without fatal error
+Nov 24 12:35: BOOT: Map data read
+Nov 24 12:35: BOOT: Connected to network
+Nov 24 12:35: BOOT: Reset user structure
+Nov 24 12:35: BOOT: Passing control to run()
+Nov 24 12:35: BOOT: Server status set to ACTIVE
+Nov 24 12:35: USERS: User Aardvark logged on from localhost
+Nov 24 12:36: CMD_USER: User quit: Aardvark
+Nov 24 12:36: USERS: User Aardvark logged on from localhost
+Nov 24 12:37: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:37: SYSTEM: Shutting down server
+Nov 24 12:37: CMD_USER: User quit: Aardvark
+Nov 24 12:37: ========================================================
+Nov 24 12:37: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:37: --------------------------------------------------------
+Nov 24 12:37: BOOT: Started init()
+Nov 24 12:37: SYSTEM: Reading system configuration
+Nov 24 12:37: System logging to syslogd enabled. Log level: 0
+Nov 24 12:37: SIGNALS: Fixing signal handlers
+Nov 24 12:37: SIGNALS: Done fixing signal handler
+Nov 24 12:37: MAP: Reading system map
+Nov 24 12:37: MAP: Map read without fatal error
+Nov 24 12:37: BOOT: Map data read
+Nov 24 12:37: BOOT: Connected to network
+Nov 24 12:37: BOOT: Reset user structure
+Nov 24 12:37: BOOT: Passing control to run()
+Nov 24 12:37: BOOT: Server status set to ACTIVE
+Nov 24 12:37: USERS: User Aardvark logged on from localhost
+Nov 24 12:41: SIGNALS: Caught SIGINT...exiting...
+Nov 24 12:41: SYSTEM: Shutting down server
+Nov 24 12:41: CMD_USER: User quit: Aardvark
+Nov 24 12:49: ========================================================
+Nov 24 12:49: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:49: --------------------------------------------------------
+Nov 24 12:49: BOOT: Started init()
+Nov 24 12:49: SYSTEM: Reading system configuration
+Nov 24 12:49: System logging to syslogd enabled. Log level: 0
+Nov 24 12:49: SIGNALS: Fixing signal handlers
+Nov 24 12:49: SIGNALS: Done fixing signal handler
+Nov 24 12:49: MAP: Reading system map
+Nov 24 12:49: MAP: Map read without fatal error
+Nov 24 12:49: BOOT: Map data read
+Nov 24 12:49: BOOT: Connected to network
+Nov 24 12:49: BOOT: Reset user structure
+Nov 24 12:49: BOOT: Passing control to run()
+Nov 24 12:49: BOOT: Server status set to ACTIVE
+Nov 24 12:49: USERS: User Aardvark logged on from localhost
+Nov 24 12:49: CMD_MAIL: Aardvark mailed Aardvark with smail()
+Nov 24 12:52: ========================================================
+Nov 24 12:52: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:52: --------------------------------------------------------
+Nov 24 12:52: BOOT: Started init()
+Nov 24 12:52: SYSTEM: Reading system configuration
+Nov 24 12:52: System logging to syslogd enabled. Log level: 0
+Nov 24 12:52: SIGNALS: Fixing signal handlers
+Nov 24 12:52: SIGNALS: Done fixing signal handler
+Nov 24 12:52: MAP: Reading system map
+Nov 24 12:52: MAP: Map read without fatal error
+Nov 24 12:52: BOOT: Map data read
+Nov 24 12:52: BOOT: Connected to network
+Nov 24 12:52: BOOT: Reset user structure
+Nov 24 12:52: BOOT: Passing control to run()
+Nov 24 12:52: BOOT: Server status set to ACTIVE
+Nov 24 12:52: MAIN: Lost connection to Aardvark (localhost). Socket closed.
+Nov 24 12:56: ========================================================
+Nov 24 12:56: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 12:56: --------------------------------------------------------
+Nov 24 12:56: BOOT: Started init()
+Nov 24 12:56: SYSTEM: Reading system configuration
+Nov 24 12:56: System logging to syslogd enabled. Log level: 0
+Nov 24 12:56: SIGNALS: Fixing signal handlers
+Nov 24 12:56: SIGNALS: Done fixing signal handler
+Nov 24 12:56: MAP: Reading system map
+Nov 24 12:56: MAP: Map read without fatal error
+Nov 24 12:56: BOOT: Map data read
+Nov 24 12:56: BOOT: Connected to network
+Nov 24 12:56: BOOT: Reset user structure
+Nov 24 12:56: BOOT: Passing control to run()
+Nov 24 12:56: BOOT: Server status set to ACTIVE
+Nov 24 12:56: USERS: User Aardvark logged on from localhost
+Nov 24 12:56: CMD_MAIL: Aardvark mailed Aardvark with smail()
+Nov 24 13:10: ========================================================
+Nov 24 13:10: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 13:10: --------------------------------------------------------
+Nov 24 13:10: BOOT: Started init()
+Nov 24 13:10: SYSTEM: Reading system configuration
+Nov 24 13:10: System logging to syslogd enabled. Log level: 0
+Nov 24 13:10: SIGNALS: Fixing signal handlers
+Nov 24 13:10: SIGNALS: Done fixing signal handler
+Nov 24 13:10: MAP: Reading system map
+Nov 24 13:10: MAP: Map read without fatal error
+Nov 24 13:10: BOOT: Map data read
+Nov 24 13:10: BOOT: Connected to network
+Nov 24 13:10: BOOT: Reset user structure
+Nov 24 13:10: BOOT: Passing control to run()
+Nov 24 13:10: BOOT: Server status set to ACTIVE
+Nov 24 13:10: USERS: User Aardvark logged on from localhost
+Nov 24 13:12: ========================================================
+Nov 24 13:12: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 13:12: --------------------------------------------------------
+Nov 24 13:12: BOOT: Started init()
+Nov 24 13:12: SYSTEM: Reading system configuration
+Nov 24 13:12: System logging to syslogd enabled. Log level: 0
+Nov 24 13:12: SIGNALS: Fixing signal handlers
+Nov 24 13:12: SIGNALS: Done fixing signal handler
+Nov 24 13:12: MAP: Reading system map
+Nov 24 13:12: MAP: Map read without fatal error
+Nov 24 13:12: BOOT: Map data read
+Nov 24 13:12: BOOT: Connected to network
+Nov 24 13:12: BOOT: Reset user structure
+Nov 24 13:12: BOOT: Passing control to run()
+Nov 24 13:12: BOOT: Server status set to ACTIVE
+Nov 24 13:12: USERS: User Aardvark logged on from localhost
+Nov 24 13:12: CMD_MAIL: Aardvark mailed Aardvark with smail()
+Nov 24 13:12: CMD_MAIL: Aardvark mailed Aardvark with smail()
+Nov 24 13:12: CMD_USER: User quit: Aardvark
+Nov 24 15:01: ========================================================
+Nov 24 15:01: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:01: --------------------------------------------------------
+Nov 24 15:01: BOOT: Started init()
+Nov 24 15:01: SYSTEM: Reading system configuration
+Nov 24 15:01: System logging to syslogd enabled. Log level: 0
+Nov 24 15:01: SIGNALS: Fixing signal handlers
+Nov 24 15:01: SIGNALS: Done fixing signal handler
+Nov 24 15:01: MAP: Reading system map
+Nov 24 15:01: MAP: Map read without fatal error
+Nov 24 15:01: BOOT: Map data read
+Nov 24 15:01: BOOT: Connected to network
+Nov 24 15:01: BOOT: Reset user structure
+Nov 24 15:01: BOOT: Passing control to run()
+Nov 24 15:01: BOOT: Server status set to ACTIVE
+Nov 24 15:02: USERS: User Aardvark logged on from localhost
+Nov 24 15:05: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:05: SYSTEM: Shutting down server
+Nov 24 15:05: CMD_USER: User quit: Aardvark
+Nov 24 15:05: ========================================================
+Nov 24 15:05: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:05: --------------------------------------------------------
+Nov 24 15:05: BOOT: Started init()
+Nov 24 15:05: SYSTEM: Reading system configuration
+Nov 24 15:05: System logging to syslogd enabled. Log level: 0
+Nov 24 15:05: SIGNALS: Fixing signal handlers
+Nov 24 15:05: SIGNALS: Done fixing signal handler
+Nov 24 15:05: MAP: Reading system map
+Nov 24 15:05: MAP: Map read without fatal error
+Nov 24 15:05: BOOT: Map data read
+Nov 24 15:05: BOOT: Connected to network
+Nov 24 15:05: BOOT: Reset user structure
+Nov 24 15:05: BOOT: Passing control to run()
+Nov 24 15:05: BOOT: Server status set to ACTIVE
+Nov 24 15:05: USERS: User Aardvark logged on from localhost
+Nov 24 15:06: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:06: SYSTEM: Shutting down server
+Nov 24 15:06: CMD_USER: User quit: Aardvark
+Nov 24 15:06: ========================================================
+Nov 24 15:06: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:06: --------------------------------------------------------
+Nov 24 15:06: BOOT: Started init()
+Nov 24 15:06: SYSTEM: Reading system configuration
+Nov 24 15:06: System logging to syslogd enabled. Log level: 0
+Nov 24 15:06: SIGNALS: Fixing signal handlers
+Nov 24 15:06: SIGNALS: Done fixing signal handler
+Nov 24 15:06: MAP: Reading system map
+Nov 24 15:06: MAP: Map read without fatal error
+Nov 24 15:06: BOOT: Map data read
+Nov 24 15:06: BOOT: Connected to network
+Nov 24 15:06: BOOT: Reset user structure
+Nov 24 15:06: BOOT: Passing control to run()
+Nov 24 15:06: BOOT: Server status set to ACTIVE
+Nov 24 15:06: USERS: User Aardvark logged on from localhost
+Nov 24 15:07: SIGNALS: Caught SIGSEGV...exiting...
+Nov 24 15:07: SYSTEM: Shutting down server
+Nov 24 15:07: CMD_USER: User quit: Aardvark
+Nov 24 15:07: SIGNALS: Detected signal 11
+
+Nov 24 15:08: ========================================================
+Nov 24 15:08: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:08: --------------------------------------------------------
+Nov 24 15:08: BOOT: Started init()
+Nov 24 15:08: SYSTEM: Reading system configuration
+Nov 24 15:08: System logging to syslogd enabled. Log level: 0
+Nov 24 15:08: SIGNALS: Fixing signal handlers
+Nov 24 15:08: SIGNALS: Done fixing signal handler
+Nov 24 15:08: MAP: Reading system map
+Nov 24 15:08: MAP: Map read without fatal error
+Nov 24 15:08: BOOT: Map data read
+Nov 24 15:08: BOOT: Connected to network
+Nov 24 15:08: BOOT: Reset user structure
+Nov 24 15:08: BOOT: Passing control to run()
+Nov 24 15:08: BOOT: Server status set to ACTIVE
+Nov 24 15:08: USERS: User Aardvark logged on from localhost
+Nov 24 15:09: SIGNALS: Caught SIGSEGV...exiting...
+Nov 24 15:09: SYSTEM: Shutting down server
+Nov 24 15:09: CMD_USER: User quit: Aardvark
+Nov 24 15:09: SIGNALS: Detected signal 11
+
+Nov 24 15:13: ========================================================
+Nov 24 15:13: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:13: --------------------------------------------------------
+Nov 24 15:13: BOOT: Started init()
+Nov 24 15:13: SYSTEM: Reading system configuration
+Nov 24 15:13: System logging to syslogd enabled. Log level: 0
+Nov 24 15:13: SIGNALS: Fixing signal handlers
+Nov 24 15:13: SIGNALS: Done fixing signal handler
+Nov 24 15:13: MAP: Reading system map
+Nov 24 15:13: MAP: Map read without fatal error
+Nov 24 15:13: BOOT: Map data read
+Nov 24 15:13: BOOT: Connected to network
+Nov 24 15:13: BOOT: Reset user structure
+Nov 24 15:13: BOOT: Passing control to run()
+Nov 24 15:13: BOOT: Server status set to ACTIVE
+Nov 24 15:13: USERS: User Aardvark logged on from localhost
+Nov 24 15:13: SIGNALS: Caught SIGSEGV...exiting...
+Nov 24 15:13: SYSTEM: Shutting down server
+Nov 24 15:13: CMD_USER: User quit: Aardvark
+Nov 24 15:13: SIGNALS: Detected signal 11
+
+Nov 24 15:16: ========================================================
+Nov 24 15:16: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:16: --------------------------------------------------------
+Nov 24 15:16: BOOT: Started init()
+Nov 24 15:16: SYSTEM: Reading system configuration
+Nov 24 15:16: System logging to syslogd enabled. Log level: 0
+Nov 24 15:16: SIGNALS: Fixing signal handlers
+Nov 24 15:16: SIGNALS: Done fixing signal handler
+Nov 24 15:16: MAP: Reading system map
+Nov 24 15:16: MAP: Map read without fatal error
+Nov 24 15:16: BOOT: Map data read
+Nov 24 15:16: BOOT: Connected to network
+Nov 24 15:16: BOOT: Reset user structure
+Nov 24 15:16: BOOT: Passing control to run()
+Nov 24 15:16: BOOT: Server status set to ACTIVE
+Nov 24 15:16: USERS: User Aardvark logged on from localhost
+Nov 24 15:17: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:17: SYSTEM: Shutting down server
+Nov 24 15:17: CMD_USER: User quit: Aardvark
+Nov 24 15:25: ========================================================
+Nov 24 15:25: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:25: --------------------------------------------------------
+Nov 24 15:25: BOOT: Started init()
+Nov 24 15:25: SYSTEM: Reading system configuration
+Nov 24 15:25: System logging to syslogd enabled. Log level: 0
+Nov 24 15:25: SIGNALS: Fixing signal handlers
+Nov 24 15:25: SIGNALS: Done fixing signal handler
+Nov 24 15:25: MAP: Reading system map
+Nov 24 15:25: MAP: Map read without fatal error
+Nov 24 15:25: BOOT: Map data read
+Nov 24 15:25: BOOT: Connected to network
+Nov 24 15:25: BOOT: Reset user structure
+Nov 24 15:25: BOOT: Passing control to run()
+Nov 24 15:25: BOOT: Server status set to ACTIVE
+Nov 24 15:25: USERS: User Aardvark logged on from localhost
+Nov 24 15:28: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:28: SYSTEM: Shutting down server
+Nov 24 15:28: CMD_USER: User quit: Aardvark
+Nov 24 15:28: ========================================================
+Nov 24 15:28: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:28: --------------------------------------------------------
+Nov 24 15:28: BOOT: Started init()
+Nov 24 15:28: SYSTEM: Reading system configuration
+Nov 24 15:28: System logging to syslogd enabled. Log level: 0
+Nov 24 15:28: SIGNALS: Fixing signal handlers
+Nov 24 15:28: SIGNALS: Done fixing signal handler
+Nov 24 15:28: MAP: Reading system map
+Nov 24 15:28: MAP: Map read without fatal error
+Nov 24 15:28: BOOT: Map data read
+Nov 24 15:28: BOOT: Connected to network
+Nov 24 15:28: BOOT: Reset user structure
+Nov 24 15:28: BOOT: Passing control to run()
+Nov 24 15:28: BOOT: Server status set to ACTIVE
+Nov 24 15:28: USERS: User Aardvark logged on from localhost
+Nov 24 15:29: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:29: SYSTEM: Shutting down server
+Nov 24 15:29: CMD_USER: User quit: Aardvark
+Nov 24 15:33: ========================================================
+Nov 24 15:33: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:33: --------------------------------------------------------
+Nov 24 15:33: BOOT: Started init()
+Nov 24 15:33: SYSTEM: Reading system configuration
+Nov 24 15:33: System logging to syslogd enabled. Log level: 0
+Nov 24 15:33: SIGNALS: Fixing signal handlers
+Nov 24 15:33: SIGNALS: Done fixing signal handler
+Nov 24 15:33: MAP: Reading system map
+Nov 24 15:33: MAP: Map read without fatal error
+Nov 24 15:33: BOOT: Map data read
+Nov 24 15:33: BOOT: Connected to network
+Nov 24 15:33: BOOT: Reset user structure
+Nov 24 15:33: BOOT: Passing control to run()
+Nov 24 15:33: BOOT: Server status set to ACTIVE
+Nov 24 15:33: USERS: User Aardvark logged on from localhost
+Nov 24 15:33: SIGNALS: Caught SIGINT...exiting...
+Nov 24 15:33: SYSTEM: Shutting down server
+Nov 24 15:33: CMD_USER: User quit: Aardvark
+Nov 24 15:42: ========================================================
+Nov 24 15:42: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 15:42: --------------------------------------------------------
+Nov 24 15:42: BOOT: Started init()
+Nov 24 15:42: SYSTEM: Reading system configuration
+Nov 24 15:42: System logging to syslogd enabled. Log level: 0
+Nov 24 15:42: SIGNALS: Fixing signal handlers
+Nov 24 15:42: SIGNALS: Done fixing signal handler
+Nov 24 15:42: MAP: Reading system map
+Nov 24 15:42: MAP: Map read without fatal error
+Nov 24 15:42: BOOT: Map data read
+Nov 24 15:42: BOOT: Connected to network
+Nov 24 15:42: BOOT: Reset user structure
+Nov 24 15:42: BOOT: Passing control to run()
+Nov 24 15:42: BOOT: Server status set to ACTIVE
+Nov 24 15:42: USERS: User Aardvark logged on from localhost
+Nov 24 16:08: ========================================================
+Nov 24 16:08: => BOOTING ARMADILLO VERSION 1.0
+Nov 24 16:08: --------------------------------------------------------
+Nov 24 16:08: BOOT: Started init()
+Nov 24 16:08: SYSTEM: Reading system configuration
+Nov 24 16:08: System logging to syslogd enabled. Log level: 0
+Nov 24 16:08: SIGNALS: Fixing signal handlers
+Nov 24 16:08: SIGNALS: Done fixing signal handler
+Nov 24 16:08: MAP: Reading system map
+Nov 24 16:08: MAP: Map read without fatal error
+Nov 24 16:08: BOOT: Map data read
+Nov 24 16:08: BOOT: Connected to network
+Nov 24 16:08: BOOT: Reset user structure
+Nov 24 16:08: BOOT: Passing control to run()
+Nov 24 16:08: BOOT: Server status set to ACTIVE
+Nov 24 16:10: SIGNALS: Caught SIGINT...exiting...
+Nov 24 16:10: SYSTEM: Shutting down server
+Nov 28 21:02: ========================================================
+Nov 28 21:02: => BOOTING ARMADILLO VERSION 1.0
+Nov 28 21:02: --------------------------------------------------------
+Nov 28 21:02: BOOT: Started init()
+Nov 28 21:02: SYSTEM: Reading system configuration
+Nov 28 21:02: System logging to syslogd enabled. Log level: 0
+Nov 28 21:02: SIGNALS: Fixing signal handlers
+Nov 28 21:02: SIGNALS: Done fixing signal handler
+Nov 28 21:02: MAP: Reading system map
+Nov 28 21:02: MAP: Map read without fatal error
+Nov 28 21:02: BOOT: Map data read
+Nov 28 21:02: BOOT: Connected to network
+Nov 28 21:02: BOOT: Reset user structure
+Nov 28 21:02: BOOT: Passing control to run()
+Nov 28 21:02: BOOT: Server status set to ACTIVE
+Nov 28 21:02: USERS: User Aardvark logged on from localhost
+Nov 28 21:02: CMD_MAIL: Aardvark mailed Aardvark with smail()
+Nov 28 21:03: CMD_USER: User quit: Aardvark
+Nov 28 21:03: SIGNALS: Caught SIGINT...exiting...
+Nov 28 21:03: SYSTEM: Shutting down server
+Apr 21 17:54: ========================================================
+Apr 21 17:54: => BOOTING ARMADILLO VERSION 1.0
+Apr 21 17:54: --------------------------------------------------------
+Apr 21 17:54: BOOT: Started init()
+Apr 21 17:54: SYSTEM: Reading system configuration
+Apr 21 17:54: System logging to syslogd enabled. Log level: 0
+Apr 21 17:54: SIGNALS: Fixing signal handlers
+Apr 21 17:54: SIGNALS: Done fixing signal handler
+Apr 21 17:54: MAP: Reading system map
+Apr 21 17:54: MAP: Map read without fatal error
+Apr 21 17:54: BOOT: Map data read
+Apr 21 17:54: BOOT: Connected to network
+Apr 21 17:54: BOOT: Reset user structure
+Apr 21 17:54: BOOT: Passing control to run()
+Apr 21 17:54: BOOT: Server status set to ACTIVE
+Apr 21 17:54: USERS: User Aardvark logged on from localhost
+Apr 21 17:55: CMD_USER: User quit: Aardvark
+Apr 21 17:55: SIGNALS: Caught SIGINT...exiting...
+Apr 21 17:55: SYSTEM: Shutting down server
+May  1 18:54: ========================================================
+May  1 18:54: => BOOTING ARMADILLO VERSION 1.0
+May  1 18:54: --------------------------------------------------------
+May  1 18:54: BOOT: Started init()
+May  1 18:54: SYSTEM: Reading system configuration
+May  1 18:54: System logging to syslogd enabled. Log level: 0
+May  1 18:54: SIGNALS: Fixing signal handlers
+May  1 18:54: SIGNALS: Done fixing signal handler
+May  1 18:54: MAP: Reading system map
+May  1 18:54: MAP: Map read without fatal error
+May  1 18:54: BOOT: Map data read
+May  1 18:54: BOOT: Connected to network
+May  1 18:54: BOOT: Reset user structure
+May  1 18:54: BOOT: Passing control to run()
+May  1 18:54: BOOT: Server status set to ACTIVE
+May  1 18:54: USERS: User Aardvark logged on from localhost
+May  1 18:54: SIGNALS: Caught SIGINT...exiting...
+May  1 18:54: SYSTEM: Shutting down server
+May  1 18:54: CMD_USER: User quit: Aardvark
+Dec 15 20:53: ========================================================
+Dec 15 20:53: => BOOTING ARMADILLO VERSION 1.0
+Dec 15 20:53: --------------------------------------------------------
+Dec 15 20:53: BOOT: Started init()
+Dec 15 20:53: SYSTEM: Reading system configuration
+Dec 15 20:53: System logging to syslogd enabled. Log level: 0
+Dec 15 20:53: SIGNALS: Fixing signal handlers
+Dec 15 20:53: SIGNALS: Done fixing signal handler
+Dec 15 20:53: MAP: Reading system map
+Dec 15 20:53: MAP: Map read without fatal error
+Dec 15 20:53: BOOT: Map data read
+Dec 15 20:53: BOOT: Connected to network
+Dec 15 20:53: BOOT: Reset user structure
+Dec 15 20:53: BOOT: Passing control to run()
+Dec 15 20:53: BOOT: Server status set to ACTIVE
+Dec 15 20:54: USERS: No profile found for user Numbersix
+Dec 15 20:54: USERS: User Numbersix logged on from localhost
+Dec 15 20:54: CMD_USER: User quit: Numbersix
+Dec 15 20:54: USERS: User Sixie logged on from localhost
+Dec 15 20:54: CMD_MAIL: Could not open /home/chris/Armadillo/users/mail/Sixie (user Sixie) for reading in rmail()
+Dec 15 20:54: SIGNALS: Caught SIGINT...exiting...
+Dec 15 20:54: SYSTEM: Shutting down server
+Dec 15 20:54: CMD_USER: User quit: Sixie
+Dec 16 00:11: ========================================================
+Dec 16 00:11: => BOOTING ARMADILLO VERSION 1.0
+Dec 16 00:11: --------------------------------------------------------
+Dec 16 00:11: BOOT: Started init()
+Dec 16 00:11: SYSTEM: Reading system configuration
+Dec 16 00:11: System logging to syslogd enabled. Log level: 0
+Dec 16 00:11: SIGNALS: Fixing signal handlers
+Dec 16 00:11: SIGNALS: Done fixing signal handler
+Dec 16 00:11: MAP: Reading system map
+Dec 16 00:11: MAP: Map read without fatal error
+Dec 16 00:11: BOOT: Map data read
+Dec 16 00:11: BOOT: Connected to network
+Dec 16 00:11: BOOT: Reset user structure
+Dec 16 00:11: BOOT: Passing control to run()
+Dec 16 00:11: BOOT: Server status set to ACTIVE
+Dec 16 00:11: SIGNALS: Caught SIGINT...exiting...
+Dec 16 00:11: SYSTEM: Shutting down server
+Dec 16 00:11: ========================================================
+Dec 16 00:11: => BOOTING ARMADILLO VERSION 1.0
+Dec 16 00:11: --------------------------------------------------------
+Dec 16 00:11: BOOT: Started init()
+Dec 16 00:11: SYSTEM: Reading system configuration
+Dec 16 00:11: System logging to syslogd enabled. Log level: 0
+Dec 16 00:11: SIGNALS: Fixing signal handlers
+Dec 16 00:11: SIGNALS: Done fixing signal handler
+Dec 16 00:11: MAP: Reading system map
+Dec 16 00:11: MAP: Map read without fatal error
+Dec 16 00:11: BOOT: Map data read
+Dec 16 00:11: BOOT: Connected to network
+Dec 16 00:11: BOOT: Reset user structure
+Dec 16 00:11: BOOT: Passing control to run()
+Dec 16 00:11: BOOT: Server status set to ACTIVE
+Dec 16 00:12: USERS: User Sixie logged on from infinitum.cej.net
+Dec 16 00:13: SIGNALS: Caught SIGINT...exiting...
+Dec 16 00:13: SYSTEM: Shutting down server
+Dec 16 00:13: CMD_USER: User quit: Sixie
+Dec 28 16:37: ========================================================
+Dec 28 16:37: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 16:37: --------------------------------------------------------
+Dec 28 16:37: BOOT: Started init()
+Dec 28 16:37: SYSTEM: Reading system configuration
+Dec 28 16:37: System logging to syslogd enabled. Log level: 0
+Dec 28 16:37: SIGNALS: Fixing signal handlers
+Dec 28 16:37: SIGNALS: Done fixing signal handler
+Dec 28 16:37: MAP: Reading system map
+Dec 28 16:37: MAP: Map read without fatal error
+Dec 28 16:37: BOOT: Map data read
+Dec 28 16:37: BOOT: Connected to network
+Dec 28 16:37: BOOT: Reset user structure
+Dec 28 16:37: BOOT: Passing control to run()
+Dec 28 16:37: BOOT: Server status set to ACTIVE
+Dec 28 16:37: USERS: User Aardvark logged on from localhost
+Dec 28 16:39: MAIN: Lost connection to Aardvark (localhost). Socket closed.
+Dec 28 16:39: SIGNALS: Caught SIGINT...exiting...
+Dec 28 16:39: SYSTEM: Shutting down server
+Dec 28 16:46: ========================================================
+Dec 28 16:46: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 16:46: --------------------------------------------------------
+Dec 28 16:46: BOOT: Started init()
+Dec 28 16:46: SYSTEM: Reading system configuration
+Dec 28 16:46: System logging to syslogd enabled. Log level: 0
+Dec 28 16:46: SIGNALS: Fixing signal handlers
+Dec 28 16:46: SIGNALS: Done fixing signal handler
+Dec 28 16:46: MAP: Reading system map
+Dec 28 16:46: MAP: Map read without fatal error
+Dec 28 16:46: BOOT: Map data read
+Dec 28 16:46: BOOT: Connected to network
+Dec 28 16:46: BOOT: Reset user structure
+Dec 28 16:46: BOOT: Passing control to run()
+Dec 28 16:46: BOOT: Server status set to ACTIVE
+Dec 28 16:46: USERS: User Aardvark logged on from localhost
+Dec 28 16:48: SIGNALS: Caught SIGINT...exiting...
+Dec 28 16:48: SYSTEM: Shutting down server
+Dec 28 16:48: CMD_USER: User quit: Aardvark
+Dec 28 16:54: ========================================================
+Dec 28 16:54: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 16:54: --------------------------------------------------------
+Dec 28 16:54: BOOT: Started init()
+Dec 28 16:54: SYSTEM: Reading system configuration
+Dec 28 16:54: System logging to syslogd enabled. Log level: 0
+Dec 28 16:54: SIGNALS: Fixing signal handlers
+Dec 28 16:54: SIGNALS: Done fixing signal handler
+Dec 28 16:54: MAP: Reading system map
+Dec 28 16:54: MAP: Map read without fatal error
+Dec 28 16:54: BOOT: Map data read
+Dec 28 16:54: BOOT: Connected to network
+Dec 28 16:54: BOOT: Reset user structure
+Dec 28 16:54: BOOT: Passing control to run()
+Dec 28 16:54: BOOT: Server status set to ACTIVE
+Dec 28 16:54: USERS: User Aardvark logged on from localhost
+Dec 28 16:55: CMD_USER: User quit: Aardvark
+Dec 28 16:55: SIGNALS: Caught SIGINT...exiting...
+Dec 28 16:55: SYSTEM: Shutting down server
+Dec 28 16:55: ========================================================
+Dec 28 16:55: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 16:55: --------------------------------------------------------
+Dec 28 16:55: BOOT: Started init()
+Dec 28 16:55: SYSTEM: Reading system configuration
+Dec 28 16:55: System logging to syslogd enabled. Log level: 0
+Dec 28 16:55: SIGNALS: Fixing signal handlers
+Dec 28 16:55: SIGNALS: Done fixing signal handler
+Dec 28 16:55: MAP: Reading system map
+Dec 28 16:55: MAP: Map read without fatal error
+Dec 28 16:55: BOOT: Map data read
+Dec 28 16:55: BOOT: Connected to network
+Dec 28 16:55: BOOT: Reset user structure
+Dec 28 16:55: BOOT: Passing control to run()
+Dec 28 16:55: BOOT: Server status set to ACTIVE
+Dec 28 16:55: USERS: User Aardvark logged on from localhost
+Dec 28 16:58: SIGNALS: Caught SIGINT...exiting...
+Dec 28 16:58: SYSTEM: Shutting down server
+Dec 28 16:58: CMD_USER: User quit: Aardvark
+Dec 28 17:12: ========================================================
+Dec 28 17:12: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:12: --------------------------------------------------------
+Dec 28 17:12: BOOT: Started init()
+Dec 28 17:12: SYSTEM: Reading system configuration
+Dec 28 17:12: System logging to syslogd enabled. Log level: 0
+Dec 28 17:12: SIGNALS: Fixing signal handlers
+Dec 28 17:12: SIGNALS: Done fixing signal handler
+Dec 28 17:12: MAP: Reading system map
+Dec 28 17:12: MAP: Map read without fatal error
+Dec 28 17:12: BOOT: Map data read
+Dec 28 17:12: BOOT: Connected to network
+Dec 28 17:12: BOOT: Reset user structure
+Dec 28 17:12: BOOT: Passing control to run()
+Dec 28 17:12: BOOT: Server status set to ACTIVE
+Dec 28 17:12: USERS: User Aardvark logged on from localhost
+Dec 28 17:15: SIGNALS: Caught SIGINT...exiting...
+Dec 28 17:15: SYSTEM: Shutting down server
+Dec 28 17:15: CMD_USER: User quit: Aardvark
+Dec 28 17:27: ========================================================
+Dec 28 17:27: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:27: --------------------------------------------------------
+Dec 28 17:27: BOOT: Started init()
+Dec 28 17:27: SYSTEM: Reading system configuration
+Dec 28 17:27: System logging to syslogd enabled. Log level: 0
+Dec 28 17:27: SIGNALS: Fixing signal handlers
+Dec 28 17:27: SIGNALS: Done fixing signal handler
+Dec 28 17:27: MAP: Reading system map
+Dec 28 17:27: MAP: Map read without fatal error
+Dec 28 17:27: BOOT: Map data read
+Dec 28 17:27: BOOT: Connected to network
+Dec 28 17:27: BOOT: Reset user structure
+Dec 28 17:27: BOOT: Passing control to run()
+Dec 28 17:27: BOOT: Server status set to ACTIVE
+Dec 28 17:27: USERS: User Aardvark logged on from localhost
+Dec 28 17:28: CMD_USER: User quit: Aardvark
+Dec 28 17:28: SIGNALS: Caught SIGINT...exiting...
+Dec 28 17:28: SYSTEM: Shutting down server
+Dec 28 17:31: ========================================================
+Dec 28 17:31: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:31: --------------------------------------------------------
+Dec 28 17:31: BOOT: Started init()
+Dec 28 17:31: SYSTEM: Reading system configuration
+Dec 28 17:31: System logging to syslogd enabled. Log level: 0
+Dec 28 17:31: SIGNALS: Fixing signal handlers
+Dec 28 17:31: SIGNALS: Done fixing signal handler
+Dec 28 17:31: MAP: Reading system map
+Dec 28 17:31: MAP: Map read without fatal error
+Dec 28 17:31: BOOT: Map data read
+Dec 28 17:31: BOOT: Connected to network
+Dec 28 17:31: BOOT: Reset user structure
+Dec 28 17:31: BOOT: Passing control to run()
+Dec 28 17:31: BOOT: Server status set to ACTIVE
+Dec 28 17:31: USERS: User Aardvark logged on from localhost
+Dec 28 17:35: SIGNALS: Caught SIGINT...exiting...
+Dec 28 17:35: SYSTEM: Shutting down server
+Dec 28 17:35: CMD_USER: User quit: Aardvark
+Dec 28 17:43: ========================================================
+Dec 28 17:43: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:43: --------------------------------------------------------
+Dec 28 17:43: BOOT: Started init()
+Dec 28 17:43: SYSTEM: Reading system configuration
+Dec 28 17:43: System logging to syslogd enabled. Log level: 0
+Dec 28 17:43: SIGNALS: Fixing signal handlers
+Dec 28 17:43: SIGNALS: Done fixing signal handler
+Dec 28 17:43: MAP: Reading system map
+Dec 28 17:43: MAP: Map read without fatal error
+Dec 28 17:43: BOOT: Map data read
+Dec 28 17:43: BOOT: Connected to network
+Dec 28 17:43: BOOT: Reset user structure
+Dec 28 17:43: BOOT: Passing control to run()
+Dec 28 17:43: BOOT: Server status set to ACTIVE
+Dec 28 17:43: USERS: User Aardvark logged on from localhost
+Dec 28 17:44: SIGNALS: Caught SIGINT...exiting...
+Dec 28 17:44: SYSTEM: Shutting down server
+Dec 28 17:44: CMD_USER: User quit: Aardvark
+Dec 28 17:46: ========================================================
+Dec 28 17:46: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:46: --------------------------------------------------------
+Dec 28 17:46: BOOT: Started init()
+Dec 28 17:46: SYSTEM: Reading system configuration
+Dec 28 17:46: System logging to syslogd enabled. Log level: 0
+Dec 28 17:46: SIGNALS: Fixing signal handlers
+Dec 28 17:46: SIGNALS: Done fixing signal handler
+Dec 28 17:46: MAP: Reading system map
+Dec 28 17:46: MAP: Map read without fatal error
+Dec 28 17:46: BOOT: Map data read
+Dec 28 17:46: BOOT: Connected to network
+Dec 28 17:46: BOOT: Reset user structure
+Dec 28 17:46: BOOT: Passing control to run()
+Dec 28 17:46: BOOT: Server status set to ACTIVE
+Dec 28 17:46: USERS: User Aardvark logged on from localhost
+Dec 28 17:47: SIGNALS: Caught SIGINT...exiting...
+Dec 28 17:47: SYSTEM: Shutting down server
+Dec 28 17:47: CMD_USER: User quit: Aardvark
+Dec 28 17:49: ========================================================
+Dec 28 17:49: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:49: --------------------------------------------------------
+Dec 28 17:49: BOOT: Started init()
+Dec 28 17:49: SYSTEM: Reading system configuration
+Dec 28 17:49: System logging to syslogd enabled. Log level: 0
+Dec 28 17:49: SIGNALS: Fixing signal handlers
+Dec 28 17:49: SIGNALS: Done fixing signal handler
+Dec 28 17:49: MAP: Reading system map
+Dec 28 17:49: MAP: Map read without fatal error
+Dec 28 17:49: BOOT: Map data read
+Dec 28 17:49: BOOT: Connected to network
+Dec 28 17:49: BOOT: Reset user structure
+Dec 28 17:49: BOOT: Passing control to run()
+Dec 28 17:49: BOOT: Server status set to ACTIVE
+Dec 28 17:51: USERS: User Aardvark logged on from localhost
+Dec 28 17:53: ========================================================
+Dec 28 17:53: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 17:53: --------------------------------------------------------
+Dec 28 17:53: BOOT: Started init()
+Dec 28 17:53: SYSTEM: Reading system configuration
+Dec 28 17:53: System logging to syslogd enabled. Log level: 0
+Dec 28 17:53: SIGNALS: Fixing signal handlers
+Dec 28 17:53: SIGNALS: Done fixing signal handler
+Dec 28 17:53: MAP: Reading system map
+Dec 28 17:53: MAP: Map read without fatal error
+Dec 28 17:53: BOOT: Map data read
+Dec 28 17:53: BOOT: Connected to network
+Dec 28 17:53: BOOT: Reset user structure
+Dec 28 17:53: BOOT: Passing control to run()
+Dec 28 17:53: BOOT: Server status set to ACTIVE
+Dec 28 20:17: ========================================================
+Dec 28 20:17: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:17: --------------------------------------------------------
+Dec 28 20:17: BOOT: Started init()
+Dec 28 20:17: SYSTEM: Reading system configuration
+Dec 28 20:17: System logging to syslogd enabled. Log level: 0
+Dec 28 20:17: SIGNALS: Fixing signal handlers
+Dec 28 20:17: SIGNALS: Done fixing signal handler
+Dec 28 20:17: MAP: Reading system map
+Dec 28 20:17: MAP: Map read without fatal error
+Dec 28 20:17: BOOT: Map data read
+Dec 28 20:17: BOOT: Connected to network
+Dec 28 20:17: BOOT: Reset user structure
+Dec 28 20:17: BOOT: Passing control to run()
+Dec 28 20:17: BOOT: Server status set to ACTIVE
+Dec 28 20:18: USERS: User Aardvark logged on from localhost
+Dec 28 20:18: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:18: SYSTEM: Shutting down server
+Dec 28 20:18: CMD_USER: User quit: Aardvark
+Dec 28 20:20: ========================================================
+Dec 28 20:20: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:20: --------------------------------------------------------
+Dec 28 20:20: BOOT: Started init()
+Dec 28 20:20: SYSTEM: Reading system configuration
+Dec 28 20:20: System logging to syslogd enabled. Log level: 0
+Dec 28 20:20: SIGNALS: Fixing signal handlers
+Dec 28 20:20: SIGNALS: Done fixing signal handler
+Dec 28 20:20: MAP: Reading system map
+Dec 28 20:20: MAP: Map read without fatal error
+Dec 28 20:20: BOOT: Map data read
+Dec 28 20:20: BOOT: Connected to network
+Dec 28 20:20: BOOT: Reset user structure
+Dec 28 20:20: BOOT: Passing control to run()
+Dec 28 20:20: BOOT: Server status set to ACTIVE
+Dec 28 20:20: USERS: User Aardvark logged on from localhost
+Dec 28 20:20: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:20: SYSTEM: Shutting down server
+Dec 28 20:20: CMD_USER: User quit: Aardvark
+Dec 28 20:27: ========================================================
+Dec 28 20:27: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:27: --------------------------------------------------------
+Dec 28 20:27: BOOT: Started init()
+Dec 28 20:27: SYSTEM: Reading system configuration
+Dec 28 20:27: System logging to syslogd enabled. Log level: 0
+Dec 28 20:27: SIGNALS: Fixing signal handlers
+Dec 28 20:27: SIGNALS: Done fixing signal handler
+Dec 28 20:27: MAP: Reading system map
+Dec 28 20:27: MAP: Map read without fatal error
+Dec 28 20:27: BOOT: Map data read
+Dec 28 20:27: BOOT: Connected to network
+Dec 28 20:27: BOOT: Reset user structure
+Dec 28 20:27: BOOT: Passing control to run()
+Dec 28 20:27: BOOT: Server status set to ACTIVE
+Dec 28 20:27: USERS: User Aardvark logged on from localhost
+Dec 28 20:31: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:31: SYSTEM: Shutting down server
+Dec 28 20:31: CMD_USER: User quit: Aardvark
+Dec 28 20:31: ========================================================
+Dec 28 20:31: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:31: --------------------------------------------------------
+Dec 28 20:31: BOOT: Started init()
+Dec 28 20:31: SYSTEM: Reading system configuration
+Dec 28 20:31: System logging to syslogd enabled. Log level: 0
+Dec 28 20:31: SIGNALS: Fixing signal handlers
+Dec 28 20:31: SIGNALS: Done fixing signal handler
+Dec 28 20:31: MAP: Reading system map
+Dec 28 20:31: MAP: Map read without fatal error
+Dec 28 20:31: BOOT: Map data read
+Dec 28 20:31: BOOT: Connected to network
+Dec 28 20:31: BOOT: Reset user structure
+Dec 28 20:31: BOOT: Passing control to run()
+Dec 28 20:31: BOOT: Server status set to ACTIVE
+Dec 28 20:31: USERS: User Aardvark logged on from localhost
+Dec 28 20:32: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:32: SYSTEM: Shutting down server
+Dec 28 20:32: CMD_USER: User quit: Aardvark
+Dec 28 20:35: ========================================================
+Dec 28 20:35: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:35: --------------------------------------------------------
+Dec 28 20:35: BOOT: Started init()
+Dec 28 20:35: SYSTEM: Reading system configuration
+Dec 28 20:35: System logging to syslogd enabled. Log level: 0
+Dec 28 20:35: SIGNALS: Fixing signal handlers
+Dec 28 20:35: SIGNALS: Done fixing signal handler
+Dec 28 20:35: MAP: Reading system map
+Dec 28 20:35: MAP: Map read without fatal error
+Dec 28 20:35: BOOT: Map data read
+Dec 28 20:35: BOOT: Connected to network
+Dec 28 20:35: BOOT: Reset user structure
+Dec 28 20:35: BOOT: Passing control to run()
+Dec 28 20:35: BOOT: Server status set to ACTIVE
+Dec 28 20:35: USERS: User Aardvark logged on from localhost
+Dec 28 20:37: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:37: SYSTEM: Shutting down server
+Dec 28 20:37: CMD_USER: User quit: Aardvark
+Dec 28 20:37: ========================================================
+Dec 28 20:37: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:37: --------------------------------------------------------
+Dec 28 20:37: BOOT: Started init()
+Dec 28 20:37: SYSTEM: Reading system configuration
+Dec 28 20:37: System logging to syslogd enabled. Log level: 0
+Dec 28 20:37: SIGNALS: Fixing signal handlers
+Dec 28 20:37: SIGNALS: Done fixing signal handler
+Dec 28 20:37: MAP: Reading system map
+Dec 28 20:37: MAP: Map read without fatal error
+Dec 28 20:37: BOOT: Map data read
+Dec 28 20:37: BOOT: Connected to network
+Dec 28 20:37: BOOT: Reset user structure
+Dec 28 20:37: BOOT: Passing control to run()
+Dec 28 20:37: BOOT: Server status set to ACTIVE
+Dec 28 20:37: USERS: User Aardvark logged on from localhost
+Dec 28 20:40: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:40: SYSTEM: Shutting down server
+Dec 28 20:40: CMD_USER: User quit: Aardvark
+Dec 28 20:44: ========================================================
+Dec 28 20:44: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:44: --------------------------------------------------------
+Dec 28 20:44: BOOT: Started init()
+Dec 28 20:44: SYSTEM: Reading system configuration
+Dec 28 20:44: System logging to syslogd enabled. Log level: 0
+Dec 28 20:44: SIGNALS: Fixing signal handlers
+Dec 28 20:44: SIGNALS: Done fixing signal handler
+Dec 28 20:44: MAP: Reading system map
+Dec 28 20:44: MAP: Map read without fatal error
+Dec 28 20:44: BOOT: Map data read
+Dec 28 20:44: BOOT: Connected to network
+Dec 28 20:44: BOOT: Reset user structure
+Dec 28 20:44: BOOT: Passing control to run()
+Dec 28 20:44: BOOT: Server status set to ACTIVE
+Dec 28 20:44: USERS: User Aardvark logged on from localhost
+Dec 28 20:45: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:45: SYSTEM: Shutting down server
+Dec 28 20:45: CMD_USER: User quit: Aardvark
+Dec 28 20:54: ========================================================
+Dec 28 20:54: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:54: --------------------------------------------------------
+Dec 28 20:54: BOOT: Started init()
+Dec 28 20:54: SYSTEM: Reading system configuration
+Dec 28 20:54: System logging to syslogd enabled. Log level: 0
+Dec 28 20:54: SIGNALS: Fixing signal handlers
+Dec 28 20:54: SIGNALS: Done fixing signal handler
+Dec 28 20:54: MAP: Reading system map
+Dec 28 20:54: MAP: Map read without fatal error
+Dec 28 20:54: BOOT: Map data read
+Dec 28 20:54: BOOT: Connected to network
+Dec 28 20:54: BOOT: Reset user structure
+Dec 28 20:54: BOOT: Passing control to run()
+Dec 28 20:54: BOOT: Server status set to ACTIVE
+Dec 28 20:54: USERS: User Aardvark logged on from localhost
+Dec 28 20:55: CMD_USER: User quit: Aardvark
+Dec 28 20:55: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:55: SYSTEM: Shutting down server
+Dec 28 20:56: ========================================================
+Dec 28 20:56: => BOOTING ARMADILLO VERSION 1.0
+Dec 28 20:56: --------------------------------------------------------
+Dec 28 20:56: BOOT: Started init()
+Dec 28 20:56: SYSTEM: Reading system configuration
+Dec 28 20:56: System logging to syslogd enabled. Log level: 0
+Dec 28 20:56: SIGNALS: Fixing signal handlers
+Dec 28 20:56: SIGNALS: Done fixing signal handler
+Dec 28 20:56: MAP: Reading system map
+Dec 28 20:56: MAP: Map read without fatal error
+Dec 28 20:56: BOOT: Map data read
+Dec 28 20:56: BOOT: Connected to network
+Dec 28 20:56: BOOT: Reset user structure
+Dec 28 20:56: BOOT: Passing control to run()
+Dec 28 20:56: BOOT: Server status set to ACTIVE
+Dec 28 20:57: USERS: User Aardvark logged on from localhost
+Dec 28 20:57: CMD_USER: User quit: Aardvark
+Dec 28 20:57: SIGNALS: Caught SIGINT...exiting...
+Dec 28 20:57: SYSTEM: Shutting down server
+Dec 29 14:22: ========================================================
+Dec 29 14:22: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:22: --------------------------------------------------------
+Dec 29 14:22: BOOT: Started init()
+Dec 29 14:22: SYSTEM: Reading system configuration
+Dec 29 14:22: System logging to syslogd enabled. Log level: 0
+Dec 29 14:22: SIGNALS: Fixing signal handlers
+Dec 29 14:22: SIGNALS: Done fixing signal handler
+Dec 29 14:22: MAP: Reading system map
+Dec 29 14:22: MAP: Map read without fatal error
+Dec 29 14:22: BOOT: Map data read
+Dec 29 14:22: BOOT: Connected to network
+Dec 29 14:22: BOOT: Reset user structure
+Dec 29 14:22: BOOT: Passing control to run()
+Dec 29 14:22: BOOT: Server status set to ACTIVE
+Dec 29 14:22: USERS: User Aardvark logged on from localhost
+Dec 29 14:23: CMD_MAIL: Mailer: Aardvark sent Sixie mail (time stamp: 883405381)
+Dec 29 14:23: USERS: User Aardvark logged on from localhost
+Dec 29 14:23: CMD_USER: User quit: Aardvark
+Dec 29 14:24: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:24: SYSTEM: Shutting down server
+Dec 29 14:24: CMD_USER: User quit: Aardvark
+Dec 29 14:24: CMD_USER: User quit: Fish
+Dec 29 14:24: ========================================================
+Dec 29 14:24: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:24: --------------------------------------------------------
+Dec 29 14:24: BOOT: Started init()
+Dec 29 14:24: SYSTEM: Reading system configuration
+Dec 29 14:24: System logging to syslogd enabled. Log level: 0
+Dec 29 14:24: SIGNALS: Fixing signal handlers
+Dec 29 14:24: SIGNALS: Done fixing signal handler
+Dec 29 14:24: MAP: Reading system map
+Dec 29 14:24: MAP: Map read without fatal error
+Dec 29 14:24: BOOT: Map data read
+Dec 29 14:24: BOOT: Connected to network
+Dec 29 14:24: BOOT: Reset user structure
+Dec 29 14:24: BOOT: Passing control to run()
+Dec 29 14:24: BOOT: Server status set to ACTIVE
+Dec 29 14:24: USERS: User Numbersix logged on from localhost
+Dec 29 14:24: USERS: User Aardvark logged on from localhost
+Dec 29 14:24: CMD_MAIL: Could not open /home/chris/Armadillo/users/mail/Numbersix (user Numbersix) for reading in rmail()
+Dec 29 14:24: CMD_MAIL: Could not open /home/chris/Armadillo/users/mail/Numbersix (user Numbersix) for reading in rmail()
+Dec 29 14:25: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:25: SYSTEM: Shutting down server
+Dec 29 14:25: CMD_USER: User quit: Numbersix
+Dec 29 14:25: CMD_USER: User quit: Aardvark
+Dec 29 14:28: ========================================================
+Dec 29 14:28: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:28: --------------------------------------------------------
+Dec 29 14:28: BOOT: Started init()
+Dec 29 14:28: SYSTEM: Reading system configuration
+Dec 29 14:28: System logging to syslogd enabled. Log level: 0
+Dec 29 14:28: SIGNALS: Fixing signal handlers
+Dec 29 14:28: SIGNALS: Done fixing signal handler
+Dec 29 14:28: MAP: Reading system map
+Dec 29 14:28: MAP: Map read without fatal error
+Dec 29 14:28: BOOT: Map data read
+Dec 29 14:28: BOOT: Connected to network
+Dec 29 14:28: BOOT: Reset user structure
+Dec 29 14:28: BOOT: Passing control to run()
+Dec 29 14:28: BOOT: Server status set to ACTIVE
+Dec 29 14:28: ========================================================
+Dec 29 14:28: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:28: --------------------------------------------------------
+Dec 29 14:28: BOOT: Started init()
+Dec 29 14:28: SYSTEM: Reading system configuration
+Dec 29 14:28: System logging to syslogd enabled. Log level: 0
+Dec 29 14:28: SIGNALS: Fixing signal handlers
+Dec 29 14:28: SIGNALS: Done fixing signal handler
+Dec 29 14:28: MAP: Reading system map
+Dec 29 14:28: MAP: Map read without fatal error
+Dec 29 14:28: BOOT: Map data read
+Dec 29 14:28: NETWORK FATAL: Couldn't bind to port
+Dec 29 14:28: USERS: User Numbersix logged on from localhost
+Dec 29 14:28: USERS: User Aardvark logged on from localhost
+Dec 29 14:29: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:29: SYSTEM: Shutting down server
+Dec 29 14:29: CMD_USER: User quit: Numbersix
+Dec 29 14:29: CMD_USER: User quit: Aardvark
+Dec 29 14:30: ========================================================
+Dec 29 14:30: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:30: --------------------------------------------------------
+Dec 29 14:30: BOOT: Started init()
+Dec 29 14:30: SYSTEM: Reading system configuration
+Dec 29 14:30: System logging to syslogd enabled. Log level: 0
+Dec 29 14:30: SIGNALS: Fixing signal handlers
+Dec 29 14:30: SIGNALS: Done fixing signal handler
+Dec 29 14:30: MAP: Reading system map
+Dec 29 14:30: MAP: Map read without fatal error
+Dec 29 14:30: BOOT: Map data read
+Dec 29 14:30: BOOT: Connected to network
+Dec 29 14:30: BOOT: Reset user structure
+Dec 29 14:30: BOOT: Passing control to run()
+Dec 29 14:30: BOOT: Server status set to ACTIVE
+Dec 29 14:30: USERS: User Numbersix logged on from localhost
+Dec 29 14:30: USERS: User Aardvark logged on from localhost
+Dec 29 14:31: CMD_MAIL: Mailer: Aardvark sent Numbersix mail (time stamp: 883405873)
+Dec 29 14:31: CMD_USER: User quit: Aardvark
+Dec 29 14:31: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:31: SYSTEM: Shutting down server
+Dec 29 14:31: CMD_USER: User quit: Numbersix
+Dec 29 14:31: ========================================================
+Dec 29 14:31: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:31: --------------------------------------------------------
+Dec 29 14:31: BOOT: Started init()
+Dec 29 14:31: SYSTEM: Reading system configuration
+Dec 29 14:31: System logging to syslogd enabled. Log level: 0
+Dec 29 14:31: SIGNALS: Fixing signal handlers
+Dec 29 14:31: SIGNALS: Done fixing signal handler
+Dec 29 14:31: MAP: Reading system map
+Dec 29 14:31: MAP: Map read without fatal error
+Dec 29 14:31: BOOT: Map data read
+Dec 29 14:31: BOOT: Connected to network
+Dec 29 14:31: BOOT: Reset user structure
+Dec 29 14:31: BOOT: Passing control to run()
+Dec 29 14:31: BOOT: Server status set to ACTIVE
+Dec 29 14:31: USERS: User Aardvark logged on from localhost
+Dec 29 14:31: USERS: User Aardvark logged on from localhost
+Dec 29 14:32: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:32: SYSTEM: Shutting down server
+Dec 29 14:32: CMD_USER: User quit: Aardvark
+Dec 29 14:32: CMD_USER: User quit: Aardvark
+Dec 29 14:34: ========================================================
+Dec 29 14:34: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:34: --------------------------------------------------------
+Dec 29 14:34: BOOT: Started init()
+Dec 29 14:34: SYSTEM: Reading system configuration
+Dec 29 14:34: System logging to syslogd enabled. Log level: 0
+Dec 29 14:34: SIGNALS: Fixing signal handlers
+Dec 29 14:34: SIGNALS: Done fixing signal handler
+Dec 29 14:34: MAP: Reading system map
+Dec 29 14:34: MAP: Map read without fatal error
+Dec 29 14:34: BOOT: Map data read
+Dec 29 14:34: BOOT: Connected to network
+Dec 29 14:34: BOOT: Reset user structure
+Dec 29 14:34: BOOT: Passing control to run()
+Dec 29 14:34: BOOT: Server status set to ACTIVE
+Dec 29 14:38: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:38: SYSTEM: Shutting down server
+Dec 29 14:40: ========================================================
+Dec 29 14:40: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 14:40: --------------------------------------------------------
+Dec 29 14:40: BOOT: Started init()
+Dec 29 14:40: SYSTEM: Reading system configuration
+Dec 29 14:40: System logging to syslogd enabled. Log level: 0
+Dec 29 14:40: SIGNALS: Fixing signal handlers
+Dec 29 14:40: SIGNALS: Done fixing signal handler
+Dec 29 14:40: MAP: Reading system map
+Dec 29 14:40: MAP: Map read without fatal error
+Dec 29 14:40: BOOT: Map data read
+Dec 29 14:40: BOOT: Connected to network
+Dec 29 14:40: BOOT: Reset user structure
+Dec 29 14:40: BOOT: Passing control to run()
+Dec 29 14:40: BOOT: Server status set to ACTIVE
+Dec 29 14:40: USERS: No profile found for user Test
+Dec 29 14:40: USERS: User Test logged on from localhost
+Dec 29 14:40: CMD_USER: User quit: Test
+Dec 29 14:42: SIGNALS: Caught SIGINT...exiting...
+Dec 29 14:42: SYSTEM: Shutting down server
+Dec 29 14:42: CMD_USER: User quit: User_0
+Dec 29 15:21: ========================================================
+Dec 29 15:21: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 15:21: --------------------------------------------------------
+Dec 29 15:21: BOOT: Started init()
+Dec 29 15:21: SYSTEM: Reading system configuration
+Dec 29 15:21: System logging to syslogd enabled. Log level: 0
+Dec 29 15:21: SIGNALS: Fixing signal handlers
+Dec 29 15:21: SIGNALS: Done fixing signal handler
+Dec 29 15:21: MAP: Reading system map
+Dec 29 15:21: MAP: Map read without fatal error
+Dec 29 15:21: BOOT: Map data read
+Dec 29 15:21: BOOT: Connected to network
+Dec 29 15:21: BOOT: Reset user structure
+Dec 29 15:21: BOOT: Passing control to run()
+Dec 29 15:21: BOOT: Server status set to ACTIVE
+Dec 29 15:21: USERS: User Aardvark logged on from localhost
+Dec 29 15:24: SIGNALS: Caught SIGINT...exiting...
+Dec 29 15:24: SYSTEM: Shutting down server
+Dec 29 15:24: CMD_USER: User quit: Aardvark
+Dec 29 15:25: ========================================================
+Dec 29 15:25: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 15:25: --------------------------------------------------------
+Dec 29 15:25: BOOT: Started init()
+Dec 29 15:25: SYSTEM: Reading system configuration
+Dec 29 15:25: System logging to syslogd enabled. Log level: 0
+Dec 29 15:25: SIGNALS: Fixing signal handlers
+Dec 29 15:25: SIGNALS: Done fixing signal handler
+Dec 29 15:25: MAP: Reading system map
+Dec 29 15:25: MAP: Map read without fatal error
+Dec 29 15:25: BOOT: Map data read
+Dec 29 15:25: BOOT: Connected to network
+Dec 29 15:25: BOOT: Reset user structure
+Dec 29 15:25: BOOT: Passing control to run()
+Dec 29 15:25: BOOT: Server status set to ACTIVE
+Dec 29 15:25: USERS: User Aardvark logged on from localhost
+Dec 29 15:25: SIGNALS: Caught SIGINT...exiting...
+Dec 29 15:25: SYSTEM: Shutting down server
+Dec 29 15:25: CMD_USER: User quit: Aardvark
+Dec 29 15:26: ========================================================
+Dec 29 15:26: => BOOTING ARMADILLO VERSION 1.0
+Dec 29 15:26: --------------------------------------------------------
+Dec 29 15:26: BOOT: Started init()
+Dec 29 15:26: SYSTEM: Reading system configuration
+Dec 29 15:26: System logging to syslogd enabled. Log level: 0
+Dec 29 15:26: SIGNALS: Fixing signal handlers
+Dec 29 15:26: SIGNALS: Done fixing signal handler
+Dec 29 15:26: MAP: Reading system map
+Dec 29 15:26: MAP: Map read without fatal error
+Dec 29 15:26: BOOT: Map data read
+Dec 29 15:26: BOOT: Connected to network
+Dec 29 15:26: BOOT: Reset user structure
+Dec 29 15:26: BOOT: Passing control to run()
+Dec 29 15:26: BOOT: Server status set to ACTIVE
+Dec 29 15:26: USERS: User Aardvark logged on from localhost
+Jan 12 01:34: ========================================================
+Jan 12 01:34: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 01:34: --------------------------------------------------------
+Jan 12 01:34: BOOT: Started init()
+Jan 12 01:34: SYSTEM: Reading system configuration
+Jan 12 01:34: System logging to syslogd enabled. Log level: 0
+Jan 12 01:34: SIGNALS: Fixing signal handlers
+Jan 12 01:34: SIGNALS: Done fixing signal handler
+Jan 12 01:34: MAP: Reading system map
+Jan 12 01:34: MAP: Map read without fatal error
+Jan 12 01:34: BOOT: Map data read
+Jan 12 01:34: BOOT: Connected to network
+Jan 12 01:34: BOOT: Reset user structure
+Jan 12 01:34: BOOT: Passing control to run()
+Jan 12 01:34: BOOT: Server status set to ACTIVE
+Jan 12 01:34: MAIN: Lost connection to Numbersix (localhost). Socket closed.
+Jan 12 01:35: SIGNALS: Caught SIGINT...exiting...
+Jan 12 01:35: SYSTEM: Shutting down server
+Jan 12 01:35: ========================================================
+Jan 12 01:35: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 01:35: --------------------------------------------------------
+Jan 12 01:35: BOOT: Started init()
+Jan 12 01:35: SYSTEM: Reading system configuration
+Jan 12 01:35: System logging to syslogd enabled. Log level: 0
+Jan 12 01:35: SIGNALS: Fixing signal handlers
+Jan 12 01:35: SIGNALS: Done fixing signal handler
+Jan 12 01:35: MAP: Reading system map
+Jan 12 01:35: MAP: Map read without fatal error
+Jan 12 01:35: BOOT: Map data read
+Jan 12 01:35: BOOT: Connected to network
+Jan 12 01:35: BOOT: Reset user structure
+Jan 12 01:35: BOOT: Passing control to run()
+Jan 12 01:35: BOOT: Server status set to ACTIVE
+Jan 12 01:35: SIGNALS: Caught SIGINT...exiting...
+Jan 12 01:35: SYSTEM: Shutting down server
+Jan 12 01:35: CMD_USER: User quit: User_0
+Jan 12 01:42: ========================================================
+Jan 12 01:42: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 01:42: --------------------------------------------------------
+Jan 12 01:42: BOOT: Started init()
+Jan 12 01:42: SYSTEM: Reading system configuration
+Jan 12 01:42: System logging to syslogd enabled. Log level: 0
+Jan 12 01:42: SIGNALS: Fixing signal handlers
+Jan 12 01:42: SIGNALS: Done fixing signal handler
+Jan 12 01:42: MAP: Reading system map
+Jan 12 01:42: MAP: Map read without fatal error
+Jan 12 01:42: BOOT: Map data read
+Jan 12 01:42: BOOT: Connected to network
+Jan 12 01:42: BOOT: Reset user structure
+Jan 12 01:42: BOOT: Passing control to run()
+Jan 12 01:42: BOOT: Server status set to ACTIVE
+Jan 12 01:43: MAIN: Lost connection to Sixie (localhost). Socket closed.
+Jan 12 01:43: SIGNALS: Caught SIGINT...exiting...
+Jan 12 01:43: SYSTEM: Shutting down server
+Jan 12 01:44: ========================================================
+Jan 12 01:44: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 01:44: --------------------------------------------------------
+Jan 12 01:44: BOOT: Started init()
+Jan 12 01:44: SYSTEM: Reading system configuration
+Jan 12 01:44: System logging to syslogd enabled. Log level: 0
+Jan 12 01:44: SIGNALS: Fixing signal handlers
+Jan 12 01:44: SIGNALS: Done fixing signal handler
+Jan 12 01:44: MAP: Reading system map
+Jan 12 01:44: MAP: Map read without fatal error
+Jan 12 01:44: BOOT: Map data read
+Jan 12 01:44: BOOT: Connected to network
+Jan 12 01:44: BOOT: Reset user structure
+Jan 12 01:44: BOOT: Passing control to run()
+Jan 12 01:44: BOOT: Server status set to ACTIVE
+Jan 12 01:44: USERS: User Aardvark logged on from localhost
+Jan 12 01:45: CMD_USER: User quit: Aardvark
+Jan 12 01:45: SIGNALS: Caught SIGINT...exiting...
+Jan 12 01:45: SYSTEM: Shutting down server
+Jan 12 02:01: ========================================================
+Jan 12 02:01: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 02:01: --------------------------------------------------------
+Jan 12 02:01: BOOT: Started init()
+Jan 12 02:01: SYSTEM: Reading system configuration
+Jan 12 02:01: System logging to syslogd enabled. Log level: 0
+Jan 12 02:01: SIGNALS: Fixing signal handlers
+Jan 12 02:01: SIGNALS: Done fixing signal handler
+Jan 12 02:01: MAP: Reading system map
+Jan 12 02:01: MAP: Map read without fatal error
+Jan 12 02:01: BOOT: Map data read
+Jan 12 02:01: BOOT: Connected to network
+Jan 12 02:01: BOOT: Reset user structure
+Jan 12 02:01: BOOT: Passing control to run()
+Jan 12 02:01: BOOT: Server status set to ACTIVE
+Jan 12 02:01: SIGNALS: Caught SIGINT...exiting...
+Jan 12 02:01: SYSTEM: Shutting down server
+Jan 12 02:02: ========================================================
+Jan 12 02:02: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 02:02: --------------------------------------------------------
+Jan 12 02:02: BOOT: Started init()
+Jan 12 02:02: SYSTEM: Reading system configuration
+Jan 12 02:02: System logging to syslogd enabled. Log level: 0
+Jan 12 02:02: SIGNALS: Fixing signal handlers
+Jan 12 02:02: SIGNALS: Done fixing signal handler
+Jan 12 02:02: MAP: Reading system map
+Jan 12 02:02: MAP: Map read without fatal error
+Jan 12 02:02: BOOT: Map data read
+Jan 12 02:02: BOOT: Connected to network
+Jan 12 02:02: BOOT: Reset user structure
+Jan 12 02:02: BOOT: Passing control to run()
+Jan 12 02:02: BOOT: Server status set to ACTIVE
+Jan 12 02:03: USERS: User Aardvark logged on from localhost
+Jan 12 02:03: CMD_USER: User quit: Aardvark
+Jan 12 02:03: SIGNALS: Caught SIGINT...exiting...
+Jan 12 02:03: SYSTEM: Shutting down server
+Jan 12 02:05: ========================================================
+Jan 12 02:05: => BOOTING ARMADILLO VERSION 1.0
+Jan 12 02:05: --------------------------------------------------------
+Jan 12 02:05: BOOT: Started init()
+Jan 12 02:05: SYSTEM: Reading system configuration
+Jan 12 02:05: System logging to syslogd enabled. Log level: 0
+Jan 12 02:05: SIGNALS: Fixing signal handlers
+Jan 12 02:05: SIGNALS: Done fixing signal handler
+Jan 12 02:05: MAP: Reading system map
+Jan 12 02:05: MAP: Map read without fatal error
+Jan 12 02:05: BOOT: Map data read
+Jan 12 02:05: BOOT: Connected to network
+Jan 12 02:05: BOOT: Reset user structure
+Jan 12 02:05: BOOT: Passing control to run()
+Jan 12 02:05: BOOT: Server status set to ACTIVE
+Jan 12 02:05: MAIN: Lost connection to Aardvark (localhost). Socket closed.
+Jan 12 02:05: SIGNALS: Caught SIGINT...exiting...
+Jan 12 02:05: SYSTEM: Shutting down server
+Feb 17 20:05: ========================================================
+Feb 17 20:05: => BOOTING ARMADILLO VERSION 1.0
+Feb 17 20:05: --------------------------------------------------------
+Feb 17 20:05: BOOT: Started init()
+Feb 17 20:05: SYSTEM: Reading system configuration
+Feb 17 20:05: System logging to syslogd enabled. Log level: 0
+Feb 17 20:05: SIGNALS: Fixing signal handlers
+Feb 17 20:05: SIGNALS: Done fixing signal handler
+Feb 17 20:05: MAP: Reading system map
+Feb 17 20:05: MAP: Map read without fatal error
+Feb 17 20:05: BOOT: Map data read
+Feb 17 20:05: BOOT: Connected to network
+Feb 17 20:05: BOOT: Reset user structure
+Feb 17 20:05: BOOT: Passing control to run()
+Feb 17 20:05: BOOT: Server status set to ACTIVE
+Feb 17 20:06: USERS: No profile found for user Flibble
+Feb 17 20:06: USERS: User Flibble logged on from localhost
+Feb 17 20:06: MAIN: Lost connection to Flibble (localhost). Socket closed.
+Feb 17 20:06: USERS: No profile found for user Flibble
+Feb 17 20:06: USERS: User Flibble logged on from localhost
+Feb 17 20:10: SIGNALS: Caught SIGINT...exiting...
+Feb 17 20:10: SYSTEM: Shutting down server
+Feb 17 20:10: CMD_USER: User quit: Flibble
+Jul  6 23:34: ========================================================
+Jul  6 23:34: => BOOTING ARMADILLO VERSION 1.0
+Jul  6 23:34: --------------------------------------------------------
+Jul  6 23:34: BOOT: Started init()
+Jul  6 23:34: SYSTEM: Reading system configuration
+Jul  6 23:34: System logging to syslogd enabled. Log level: 0
+Jul  6 23:34: SIGNALS: Fixing signal handlers
+Jul  6 23:34: SIGNALS: Done fixing signal handler
+Jul  6 23:34: MAP: Reading system map
+Jul  6 23:34: MAP: Map read without fatal error
+Jul  6 23:34: BOOT: Map data read
+Jul  6 23:34: BOOT: Connected to network
+Jul  6 23:34: BOOT: Reset user structure
+Jul  6 23:34: BOOT: Passing control to run()
+Jul  6 23:34: BOOT: Server status set to ACTIVE
+Jul  6 23:34: USERS: User Numbersix logged on from localhost
+Jul  6 23:37: SIGNALS: Caught SIGINT...exiting...
+Jul  6 23:37: SYSTEM: Shutting down server
+Jul  6 23:37: CMD_USER: User quit: Numbersix
+Jul  6 23:39: ========================================================
+Jul  6 23:39: => BOOTING ARMADILLO VERSION 1.0
+Jul  6 23:39: --------------------------------------------------------
+Jul  6 23:39: BOOT: Started init()
+Jul  6 23:39: SYSTEM: Reading system configuration
+Jul  6 23:39: System logging to syslogd enabled. Log level: 0
+Jul  6 23:39: SIGNALS: Fixing signal handlers
+Jul  6 23:39: SIGNALS: Done fixing signal handler
+Jul  6 23:39: MAP: Reading system map
+Jul  6 23:39: MAP: Map read without fatal error
+Jul  6 23:39: BOOT: Map data read
+Jul  6 23:39: BOOT: Connected to network
+Jul  6 23:39: BOOT: Reset user structure
+Jul  6 23:39: BOOT: Passing control to run()
+Jul  6 23:39: BOOT: Server status set to ACTIVE
+Jul  6 23:39: USERS: User Numbersix logged on from localhost
+Jul  6 23:40: MAIN: Lost connection to J (host62-7-98-238.btinternet.com). Socket closed.
+Jul  6 23:40: MAIN: Lost connection to J (host62-7-98-238.btinternet.com). Socket closed.
+Jul  6 23:41: USERS: No profile found for user Jerrak
+Jul  6 23:41: USERS: User Jerrak logged on from host62-7-98-238.btinternet.com
+Jul  6 23:41: USERS: No profile found for user Chrisb
+Jul  6 23:41: USERS: User Chrisb logged on from courgette.jml.net
+Jul  6 23:48: CMD_USER: User quit: Jerrak
+Jul  6 23:50: SIGNALS: Caught SIGINT...exiting...
+Jul  6 23:50: SYSTEM: Shutting down server
+Jul  6 23:50: CMD_USER: User quit: Numbersix
+Jul  6 23:50: CMD_USER: User quit: Chrisb
+Feb  9 23:20: ========================================================
+Feb  9 23:20: => BOOTING ARMADILLO VERSION 1.0
+Feb  9 23:20: --------------------------------------------------------
+Feb  9 23:20: BOOT: Started init()
+Feb  9 23:20: SYSTEM: Reading system configuration
+Feb  9 23:20: System logging to syslogd enabled. Log level: 0
+Feb  9 23:20: SIGNALS: Fixing signal handlers
+Feb  9 23:20: SIGNALS: Done fixing signal handler
+Feb  9 23:20: MAP: Reading system map
+Feb  9 23:20: MAP: Map read without fatal error
+Feb  9 23:20: BOOT: Map data read
+Feb  9 23:20: BOOT: Connected to network
+Feb  9 23:20: BOOT: Reset user structure
+Feb  9 23:20: BOOT: Passing control to run()
+Feb  9 23:20: BOOT: Server status set to ACTIVE
+Feb  9 23:21: USERS: User Numbersix logged on from localhost
+Feb  9 23:22: CMD_USER: User quit: Numbersix
+Feb  9 23:22: SIGNALS: Caught SIGINT...exiting...
+Feb  9 23:22: SYSTEM: Shutting down server
+Oct 18 12:08: ========================================================
+Oct 18 12:08: => BOOTING ARMADILLO VERSION 1.0
+Oct 18 12:08: --------------------------------------------------------
+Oct 18 12:08: BOOT: Started init()
+Oct 18 12:08: SYSTEM: Reading system configuration
+Oct 18 12:08: System logging to syslogd enabled. Log level: 0
+Oct 18 12:08: SIGNALS: Fixing signal handlers
+Oct 18 12:08: SIGNALS: Done fixing signal handler
+Oct 18 12:08: MAP: Reading system map
+Oct 18 12:08: MAP: Map read without fatal error
+Oct 18 12:08: BOOT: Map data read
+Oct 18 12:08: BOOT: Connected to network
+Oct 18 12:08: BOOT: Reset user structure
+Oct 18 12:08: BOOT: Passing control to run()
+Oct 18 12:08: BOOT: Server status set to ACTIVE
+Oct 18 12:08: USERS: User Numbersix logged on from localhost
+Oct 18 12:09: CMD_USER: User quit: Numbersix
+Oct 18 12:09: SIGNALS: Caught SIGINT...exiting...
+Oct 18 12:09: SYSTEM: Shutting down server

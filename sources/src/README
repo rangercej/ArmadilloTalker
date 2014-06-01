@@ -1,0 +1,11 @@
+Armadillo Source
+================
+
+Files are:
+	*.c	source code
+	*.o	object code
+	*.h	headers containing list of functions defined in that module
+	*.s	(opt) assembler code
+	armadillo	Linked binary
+
+ 

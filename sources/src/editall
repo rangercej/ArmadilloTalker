@@ -1,0 +1,8 @@
+#!/bin/ksh
+
+for file in `ls *c *h Makefile`
+do
+	xedit -iconic -name $file $file &
+	sleep 1
+done
+
